@@ -1,3 +1,4 @@
+import os
 from pyspark.mllib.regression import LabeledPoint
 from pyspark.mllib.tree import DecisionTree
 from pyspark import SparkConf, SparkContext
@@ -40,9 +41,14 @@ def createLabeledPoints(fields):
         previousEmployers, educationLevel, topTier, interned]))
 
 #Load up our CSV file, and filter out the header line with the column names
-rawData = sc.textFile("PastHires.csv")
-header = rawData.first()
-rawData = rawData.filter(lambda x:x != header)
+# Read file with Python to avoid Java security issues with newer Java versions
+# Get the directory where this script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(script_dir, "PastHires.csv")
+with open(csv_path, "r") as f:
+    lines = f.readlines()
+# Skip header and create RDD from the remaining lines
+rawData = sc.parallelize(lines[1:])
 
 # Split each line into a list based on the comma delimiters
 csvData = rawData.map(lambda x: x.split(","))

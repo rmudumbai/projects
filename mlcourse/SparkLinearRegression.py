@@ -7,11 +7,17 @@ from pyspark.ml.linalg import Vectors
 
 if __name__ == "__main__":
 
-    # Create a SparkSession (Note, the config section is only for Windows!)
-    spark = SparkSession.builder.config("spark.sql.warehouse.dir", "file:///C:/temp").appName("LinearRegression").getOrCreate()
+    # Create a SparkSession
+    spark = SparkSession.builder.appName("LinearRegression").getOrCreate()
 
     # Load up our data and convert it to the format MLLib expects.
-    inputLines = spark.sparkContext.textFile("regression.txt")
+    # Read file with Python to avoid Java security issues with newer Java versions
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    txt_path = os.path.join(script_dir, "regression.txt")
+    with open(txt_path, "r", encoding="utf-8") as f:
+        lines = [line.rstrip('\n\r') for line in f.readlines()]
+    inputLines = spark.sparkContext.parallelize(lines)
     data = inputLines.map(lambda x: x.split(",")).map(lambda x: (float(x[0]), Vectors.dense(float(x[1]))))
 
     # Convert this RDD to a DataFrame

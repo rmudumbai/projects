@@ -1,3 +1,4 @@
+import os
 from pyspark import SparkConf, SparkContext
 from pyspark.mllib.feature import HashingTF
 from pyspark.mllib.feature import IDF
@@ -9,7 +10,12 @@ conf = SparkConf().setMaster("local").setAppName("SparkTFIDF")
 sc = SparkContext(conf = conf)
 
 # Load documents (one per line).
-rawData = sc.textFile("e:/sundog-consult/Udemy/DataScience/subset-small.tsv")
+# Read file with Python to avoid Java security issues with newer Java versions
+script_dir = os.path.dirname(os.path.abspath(__file__))
+tsv_path = os.path.join(script_dir, "subset-small.tsv")
+with open(tsv_path, "r", encoding="utf-8") as f:
+    lines = [line.rstrip('\n\r') for line in f.readlines()]
+rawData = sc.parallelize(lines)
 fields = rawData.map(lambda x: x.split("\t"))
 documents = fields.map(lambda x: x[3].split(" "))
 
