@@ -1,0 +1,10 @@
+{
+  "input_path": "dev/data/processed/processed_logs_20250603_121833.csv",
+  "output_file": "dev/data/embeddings/embeddings_20250603_123618.npy",
+  "n_embeddings": 1,
+  "embedding_dim": 768,
+  "timestamp": "20250603_123618",
+  "processed_files": [
+    "processed_logs_20250603_121833"
+  ]
+}

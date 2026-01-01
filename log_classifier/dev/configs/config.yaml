@@ -1,0 +1,46 @@
+# Pipeline Configuration
+
+# Log Generation
+log_generation:
+  n_samples: 1000
+  output_dir: "dev/data/raw"
+  timestamp_format: "%Y%m%d_%H%M%S"
+
+# Log Processing
+log_processing:
+  input_dir: "dev/data/raw"
+  output_dir: "dev/data/processed"
+  timestamp_format: "%Y%m%d_%H%M%S"
+  batch_size: 100
+
+# Embedding
+embedding:
+  model_name: "allenai/longformer-base-4096"
+  input_dir: "dev/data/processed"
+  output_dir: "dev/data/embeddings"
+  batch_size: 32
+  max_length: 4096
+  quantization: true
+
+# Dimensionality Reduction
+reduction:
+  input_dir: "dev/data/embeddings"
+  output_dir: "dev/data/reduced"
+  n_components: 10
+  n_neighbors: 15
+  min_dist: 0.1
+  metric: "cosine"
+
+# Classification
+classification:
+  input_dir: "dev/data/reduced"
+  output_dir: "dev/data/classified"
+  min_cluster_size: 10
+  min_samples: 5
+  metric: "euclidean"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}"
+  file: "dev/logs/pipeline.log" 

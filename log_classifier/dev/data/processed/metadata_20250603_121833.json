@@ -1,0 +1,6 @@
+{
+  "input_file": "dev/data/raw/logs_20250603_121241.txt",
+  "output_file": "dev/data/processed/processed_logs_20250603_121833.csv",
+  "n_entries": 1000,
+  "timestamp": "20250603_121833"
+}

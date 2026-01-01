@@ -1,0 +1,1001 @@
+timestamp,level,message
+2025-06-02 12:09:30.331233000,INFO,Request 66229 completed in 453ms
+2025-06-02 12:10:56.817719486,WARNING,Retry attempt 3 for operation op_2573
+2025-06-02 12:12:23.304205972,INFO,Request 72878 completed in 248ms
+2025-06-02 12:13:49.790692459,ERROR,API request failed with status 403: Permission denied
+2025-06-02 12:15:16.277178945,ERROR,Task task_8894 failed after 1 attempts
+2025-06-02 12:16:42.763665432,INFO,User 1466 logged in successfully
+2025-06-02 12:18:09.250151918,WARNING,Connection pool at 91% capacity
+2025-06-02 12:19:35.736638405,INFO,Cache hit for key key_46
+2025-06-02 12:21:02.223124891,INFO,Cache hit for key key_31
+2025-06-02 12:22:28.709611378,WARNING,Connection pool at 90% capacity
+2025-06-02 12:23:55.196097864,INFO,Background task 3287 started
+2025-06-02 12:25:21.682584351,WARNING,Slow query detected: 2836ms for query q_1400
+2025-06-02 12:26:48.169070837,CRITICAL,Service user-service crashed: Authentication failed
+2025-06-02 12:28:14.655557324,ERROR,Task task_4073 failed after 1 attempts
+2025-06-02 12:29:41.142043810,CRITICAL,Database connection lost: Connection lost
+2025-06-02 12:31:07.628530297,WARNING,High memory usage detected: 83%
+2025-06-02 12:32:34.115016783,ERROR,Task task_6362 failed after 3 attempts
+2025-06-02 12:34:00.601503270,WARNING,Cache miss for key key_81
+2025-06-02 12:35:27.087989756,WARNING,Connection pool at 76% capacity
+2025-06-02 12:36:53.574476243,INFO,Cache hit for key key_97
+2025-06-02 12:38:20.060962729,INFO,Background task 1199 started
+2025-06-02 12:39:46.547449216,WARNING,High memory usage detected: 71%
+2025-06-02 12:41:13.033935702,WARNING,Slow query detected: 1285ms for query q_9314
+2025-06-02 12:42:39.520422189,INFO,Request 31618 completed in 610ms
+2025-06-02 12:44:06.006908675,INFO,Cache hit for key key_45
+2025-06-02 12:45:32.493395162,INFO,Background task 8714 started
+2025-06-02 12:46:58.979881648,CRITICAL,Critical security breach detected: IP: 192.168.1.68
+2025-06-02 12:48:25.466368135,INFO,Request 32438 completed in 678ms
+2025-06-02 12:49:51.952854621,WARNING,Retry attempt 1 for operation op_5563
+2025-06-02 12:51:18.439341108,INFO,User 9256 logged in successfully
+2025-06-02 12:52:44.925827594,WARNING,Cache miss for key key_80
+2025-06-02 12:54:11.412314081,INFO,User 7961 logged in successfully
+2025-06-02 12:55:37.898800567,INFO,User 5667 logged in successfully
+2025-06-02 12:57:04.385287054,INFO,Background task 5450 started
+2025-06-02 12:58:30.871773540,ERROR,Task task_2989 failed after 1 attempts
+2025-06-02 12:59:57.358260027,INFO,Database connection pool size: 8
+2025-06-02 13:01:23.844746513,INFO,Database connection pool size: 11
+2025-06-02 13:02:50.331233000,INFO,Background task 3486 started
+2025-06-02 13:04:16.817719486,INFO,Cache hit for key key_52
+2025-06-02 13:05:43.304205972,WARNING,Retry attempt 4 for operation op_4051
+2025-06-02 13:07:09.790692459,WARNING,High memory usage detected: 92%
+2025-06-02 13:08:36.277178945,INFO,User 4031 logged in successfully
+2025-06-02 13:10:02.763665432,CRITICAL,Database connection lost: Connection lost
+2025-06-02 13:11:29.250151918,INFO,Database connection pool size: 15
+2025-06-02 13:12:55.736638405,WARNING,Cache miss for key key_30
+2025-06-02 13:14:22.223124891,INFO,User 7013 logged in successfully
+2025-06-02 13:15:48.709611378,WARNING,Slow query detected: 4788ms for query q_6007
+2025-06-02 13:17:15.196097864,INFO,Background task 4507 started
+2025-06-02 13:18:41.682584351,INFO,Cache hit for key key_47
+2025-06-02 13:20:08.169070837,WARNING,Connection pool at 81% capacity
+2025-06-02 13:21:34.655557324,ERROR,API request failed with status 400: Connection timeout
+2025-06-02 13:23:01.142043810,INFO,User 2367 logged in successfully
+2025-06-02 13:24:27.628530297,INFO,Database connection pool size: 10
+2025-06-02 13:25:54.115016783,WARNING,Cache miss for key key_58
+2025-06-02 13:27:20.601503270,INFO,Background task 3251 started
+2025-06-02 13:28:47.087989756,ERROR,Invalid input data: Authentication failed
+2025-06-02 13:30:13.574476243,INFO,Cache hit for key key_57
+2025-06-02 13:31:40.060962729,INFO,User 6433 logged in successfully
+2025-06-02 13:33:06.547449216,INFO,Cache hit for key key_96
+2025-06-02 13:34:33.033935702,INFO,Request 84527 completed in 449ms
+2025-06-02 13:35:59.520422189,ERROR,Invalid input data: Invalid credentials
+2025-06-02 13:37:26.006908675,ERROR,Task task_8092 failed after 2 attempts
+2025-06-02 13:38:52.493395162,INFO,Request 58396 completed in 228ms
+2025-06-02 13:40:18.979881648,INFO,Database connection pool size: 7
+2025-06-02 13:41:45.466368135,INFO,Background task 7247 started
+2025-06-02 13:43:11.952854621,INFO,Database connection pool size: 9
+2025-06-02 13:44:38.439341108,INFO,User 3928 logged in successfully
+2025-06-02 13:46:04.925827594,ERROR,File not found: /path/to/file_18.txt
+2025-06-02 13:47:31.412314081,INFO,Request 96387 completed in 65ms
+2025-06-02 13:48:57.898800567,INFO,Background task 6832 started
+2025-06-02 13:50:24.385287054,INFO,Cache hit for key key_50
+2025-06-02 13:51:50.871773540,WARNING,Cache miss for key key_46
+2025-06-02 13:53:17.358260027,WARNING,High memory usage detected: 84%
+2025-06-02 13:54:43.844746513,INFO,Request 70376 completed in 484ms
+2025-06-02 13:56:10.331233000,INFO,Request 10801 completed in 499ms
+2025-06-02 13:57:36.817719486,WARNING,Cache miss for key key_52
+2025-06-02 13:59:03.304205972,INFO,Request 14876 completed in 623ms
+2025-06-02 14:00:29.790692459,INFO,Background task 4584 started
+2025-06-02 14:01:56.277178945,INFO,Database connection pool size: 7
+2025-06-02 14:03:22.763665432,ERROR,File not found: /path/to/file_37.txt
+2025-06-02 14:04:49.250151918,INFO,Request 71887 completed in 120ms
+2025-06-02 14:06:15.736638405,INFO,Database connection pool size: 10
+2025-06-02 14:07:42.223124891,WARNING,Retry attempt 1 for operation op_6329
+2025-06-02 14:09:08.709611378,INFO,Background task 3272 started
+2025-06-02 14:10:35.196097864,WARNING,Connection pool at 71% capacity
+2025-06-02 14:12:01.682584351,INFO,User 9511 logged in successfully
+2025-06-02 14:13:28.169070837,CRITICAL,System shutdown initiated: Emergency maintenance
+2025-06-02 14:14:54.655557324,INFO,User 9764 logged in successfully
+2025-06-02 14:16:21.142043810,INFO,Database connection pool size: 14
+2025-06-02 14:17:47.628530297,INFO,Cache hit for key key_99
+2025-06-02 14:19:14.115016783,WARNING,Retry attempt 3 for operation op_7863
+2025-06-02 14:20:40.601503270,INFO,User 2921 logged in successfully
+2025-06-02 14:22:07.087989756,INFO,Background task 3678 started
+2025-06-02 14:23:33.574476243,WARNING,Cache miss for key key_21
+2025-06-02 14:25:00.060962729,WARNING,Cache miss for key key_36
+2025-06-02 14:26:26.547449216,INFO,Database connection pool size: 17
+2025-06-02 14:27:53.033935702,INFO,Request 38670 completed in 691ms
+2025-06-02 14:29:19.520422189,WARNING,Retry attempt 2 for operation op_6216
+2025-06-02 14:30:46.006908675,INFO,Background task 9019 started
+2025-06-02 14:32:12.493395162,INFO,Request 95188 completed in 460ms
+2025-06-02 14:33:38.979881648,INFO,Background task 8768 started
+2025-06-02 14:35:05.466368135,INFO,Background task 1910 started
+2025-06-02 14:36:31.952854621,INFO,User 6303 logged in successfully
+2025-06-02 14:37:58.439341108,WARNING,High memory usage detected: 79%
+2025-06-02 14:39:24.925827594,INFO,User 4785 logged in successfully
+2025-06-02 14:40:51.412314081,INFO,Request 72314 completed in 362ms
+2025-06-02 14:42:17.898800567,INFO,Request 28534 completed in 735ms
+2025-06-02 14:43:44.385287054,INFO,Request 65383 completed in 104ms
+2025-06-02 14:45:10.871773540,INFO,Database connection pool size: 11
+2025-06-02 14:46:37.358260027,WARNING,High memory usage detected: 70%
+2025-06-02 14:48:03.844746513,INFO,Database connection pool size: 14
+2025-06-02 14:49:30.331233000,INFO,Cache hit for key key_14
+2025-06-02 14:50:56.817719486,WARNING,Slow query detected: 2305ms for query q_8709
+2025-06-02 14:52:23.304205972,INFO,Cache hit for key key_20
+2025-06-02 14:53:49.790692459,WARNING,Cache miss for key key_8
+2025-06-02 14:55:16.277178945,WARNING,Cache miss for key key_24
+2025-06-02 14:56:42.763665432,WARNING,Cache miss for key key_9
+2025-06-02 14:58:09.250151918,INFO,Background task 5246 started
+2025-06-02 14:59:35.736638405,INFO,Request 73920 completed in 802ms
+2025-06-02 15:01:02.223124891,INFO,Request 12731 completed in 771ms
+2025-06-02 15:02:28.709611378,WARNING,Connection pool at 72% capacity
+2025-06-02 15:03:55.196097864,INFO,Database connection pool size: 10
+2025-06-02 15:05:21.682584351,INFO,Cache hit for key key_39
+2025-06-02 15:06:48.169070837,CRITICAL,Service payment-service crashed: Authentication failed
+2025-06-02 15:08:14.655557324,INFO,Request 45874 completed in 812ms
+2025-06-02 15:09:41.142043810,INFO,Database connection pool size: 17
+2025-06-02 15:11:07.628530297,INFO,Background task 3079 started
+2025-06-02 15:12:34.115016783,ERROR,Failed to connect to database: Resource not found
+2025-06-02 15:14:00.601503270,WARNING,Connection pool at 82% capacity
+2025-06-02 15:15:27.087989756,CRITICAL,Database connection lost: Resource not found
+2025-06-02 15:16:53.574476243,INFO,Cache hit for key key_20
+2025-06-02 15:18:20.060962729,INFO,Database connection pool size: 13
+2025-06-02 15:19:46.547449216,INFO,Request 28776 completed in 157ms
+2025-06-02 15:21:13.033935702,WARNING,Slow query detected: 4132ms for query q_7568
+2025-06-02 15:22:39.520422189,WARNING,High memory usage detected: 73%
+2025-06-02 15:24:06.006908675,INFO,User 5273 logged in successfully
+2025-06-02 15:25:32.493395162,WARNING,Slow query detected: 2518ms for query q_3486
+2025-06-02 15:26:58.979881648,CRITICAL,Disk space critical: 74MB remaining
+2025-06-02 15:28:25.466368135,WARNING,Retry attempt 4 for operation op_9928
+2025-06-02 15:29:51.952854621,WARNING,Retry attempt 4 for operation op_3237
+2025-06-02 15:31:18.439341108,ERROR,File not found: /path/to/file_96.txt
+2025-06-02 15:32:44.925827594,INFO,User 2612 logged in successfully
+2025-06-02 15:34:11.412314081,INFO,Database connection pool size: 11
+2025-06-02 15:35:37.898800567,WARNING,Cache miss for key key_17
+2025-06-02 15:37:04.385287054,INFO,Database connection pool size: 19
+2025-06-02 15:38:30.871773540,INFO,Background task 6819 started
+2025-06-02 15:39:57.358260027,WARNING,Slow query detected: 1076ms for query q_5727
+2025-06-02 15:41:23.844746513,WARNING,Connection pool at 87% capacity
+2025-06-02 15:42:50.331233000,WARNING,Slow query detected: 3038ms for query q_5071
+2025-06-02 15:44:16.817719486,WARNING,Slow query detected: 3485ms for query q_9152
+2025-06-02 15:45:43.304205972,INFO,Background task 5117 started
+2025-06-02 15:47:09.790692459,WARNING,Retry attempt 3 for operation op_5445
+2025-06-02 15:48:36.277178945,INFO,Cache hit for key key_32
+2025-06-02 15:50:02.763665432,WARNING,Connection pool at 76% capacity
+2025-06-02 15:51:29.250151918,INFO,Cache hit for key key_64
+2025-06-02 15:52:55.736638405,INFO,Request 81100 completed in 159ms
+2025-06-02 15:54:22.223124891,WARNING,High memory usage detected: 72%
+2025-06-02 15:55:48.709611378,INFO,Background task 5269 started
+2025-06-02 15:57:15.196097864,WARNING,Cache miss for key key_81
+2025-06-02 15:58:41.682584351,WARNING,Cache miss for key key_48
+2025-06-02 16:00:08.169070837,INFO,User 9630 logged in successfully
+2025-06-02 16:01:34.655557324,CRITICAL,Disk space critical: 53MB remaining
+2025-06-02 16:03:01.142043810,WARNING,Slow query detected: 3444ms for query q_5064
+2025-06-02 16:04:27.628530297,INFO,Database connection pool size: 11
+2025-06-02 16:05:54.115016783,INFO,Request 10603 completed in 427ms
+2025-06-02 16:07:20.601503270,INFO,Request 67262 completed in 473ms
+2025-06-02 16:08:47.087989756,INFO,User 1414 logged in successfully
+2025-06-02 16:10:13.574476243,INFO,Cache hit for key key_73
+2025-06-02 16:11:40.060962729,WARNING,Slow query detected: 4395ms for query q_5915
+2025-06-02 16:13:06.547449216,INFO,Database connection pool size: 11
+2025-06-02 16:14:33.033935702,INFO,Database connection pool size: 12
+2025-06-02 16:15:59.520422189,WARNING,High memory usage detected: 74%
+2025-06-02 16:17:26.006908675,INFO,Database connection pool size: 11
+2025-06-02 16:18:52.493395162,INFO,Database connection pool size: 9
+2025-06-02 16:20:18.979881648,INFO,Request 99806 completed in 896ms
+2025-06-02 16:21:45.466368135,INFO,Database connection pool size: 6
+2025-06-02 16:23:11.952854621,INFO,Cache hit for key key_4
+2025-06-02 16:24:38.439341108,INFO,Background task 4367 started
+2025-06-02 16:26:04.925827594,INFO,Request 85211 completed in 461ms
+2025-06-02 16:27:31.412314081,WARNING,High memory usage detected: 76%
+2025-06-02 16:28:57.898800567,INFO,User 4008 logged in successfully
+2025-06-02 16:30:24.385287054,INFO,Background task 8197 started
+2025-06-02 16:31:50.871773540,INFO,Background task 6363 started
+2025-06-02 16:33:17.358260027,INFO,Database connection pool size: 12
+2025-06-02 16:34:43.844746513,ERROR,Task task_9690 failed after 2 attempts
+2025-06-02 16:36:10.331232999,INFO,User 9208 logged in successfully
+2025-06-02 16:37:36.817719486,ERROR,Task task_5873 failed after 1 attempts
+2025-06-02 16:39:03.304205972,ERROR,Task task_3787 failed after 4 attempts
+2025-06-02 16:40:29.790692459,WARNING,High memory usage detected: 76%
+2025-06-02 16:41:56.277178945,WARNING,High memory usage detected: 89%
+2025-06-02 16:43:22.763665432,INFO,Background task 7973 started
+2025-06-02 16:44:49.250151918,INFO,User 2773 logged in successfully
+2025-06-02 16:46:15.736638405,INFO,Cache hit for key key_20
+2025-06-02 16:47:42.223124891,WARNING,Slow query detected: 3179ms for query q_8146
+2025-06-02 16:49:08.709611378,INFO,User 7222 logged in successfully
+2025-06-02 16:50:35.196097864,INFO,User 4959 logged in successfully
+2025-06-02 16:52:01.682584351,ERROR,Invalid input data: Connection timeout
+2025-06-02 16:53:28.169070837,INFO,Background task 5436 started
+2025-06-02 16:54:54.655557324,INFO,Cache hit for key key_88
+2025-06-02 16:56:21.142043810,WARNING,Slow query detected: 1572ms for query q_3925
+2025-06-02 16:57:47.628530297,CRITICAL,Critical security breach detected: IP: 192.168.1.64
+2025-06-02 16:59:14.115016783,INFO,Cache hit for key key_89
+2025-06-02 17:00:40.601503270,WARNING,Retry attempt 3 for operation op_8359
+2025-06-02 17:02:07.087989756,INFO,Background task 8430 started
+2025-06-02 17:03:33.574476243,INFO,Database connection pool size: 6
+2025-06-02 17:05:00.060962729,WARNING,Slow query detected: 2068ms for query q_4044
+2025-06-02 17:06:26.547449216,INFO,Database connection pool size: 8
+2025-06-02 17:07:53.033935702,INFO,Cache hit for key key_28
+2025-06-02 17:09:19.520422189,ERROR,Failed to connect to database: Permission denied
+2025-06-02 17:10:46.006908675,WARNING,Slow query detected: 4404ms for query q_6441
+2025-06-02 17:12:12.493395162,INFO,User 5288 logged in successfully
+2025-06-02 17:13:38.979881648,CRITICAL,Critical security breach detected: IP: 192.168.1.93
+2025-06-02 17:15:05.466368135,INFO,Background task 6146 started
+2025-06-02 17:16:31.952854621,ERROR,Task task_7500 failed after 3 attempts
+2025-06-02 17:17:58.439341108,WARNING,Retry attempt 4 for operation op_7289
+2025-06-02 17:19:24.925827594,INFO,User 3106 logged in successfully
+2025-06-02 17:20:51.412314081,CRITICAL,Database connection lost: Permission denied
+2025-06-02 17:22:17.898800567,CRITICAL,System shutdown initiated: Power outage
+2025-06-02 17:23:44.385287054,INFO,Background task 3341 started
+2025-06-02 17:25:10.871773540,WARNING,Slow query detected: 3161ms for query q_2042
+2025-06-02 17:26:37.358260027,INFO,Database connection pool size: 8
+2025-06-02 17:28:03.844746513,WARNING,High memory usage detected: 90%
+2025-06-02 17:29:30.331233000,WARNING,Retry attempt 3 for operation op_3343
+2025-06-02 17:30:56.817719486,INFO,Background task 3938 started
+2025-06-02 17:32:23.304205972,INFO,User 6059 logged in successfully
+2025-06-02 17:33:49.790692459,INFO,Cache hit for key key_68
+2025-06-02 17:35:16.277178945,INFO,Database connection pool size: 13
+2025-06-02 17:36:42.763665432,ERROR,API request failed with status 403: Resource not found
+2025-06-02 17:38:09.250151918,WARNING,Slow query detected: 1595ms for query q_3072
+2025-06-02 17:39:35.736638405,INFO,User 1380 logged in successfully
+2025-06-02 17:41:02.223124891,WARNING,High memory usage detected: 91%
+2025-06-02 17:42:28.709611378,WARNING,Cache miss for key key_28
+2025-06-02 17:43:55.196097864,INFO,Request 40632 completed in 637ms
+2025-06-02 17:45:21.682584351,WARNING,Slow query detected: 4332ms for query q_6370
+2025-06-02 17:46:48.169070837,WARNING,Retry attempt 1 for operation op_7358
+2025-06-02 17:48:14.655557324,INFO,Cache hit for key key_61
+2025-06-02 17:49:41.142043810,INFO,Background task 4442 started
+2025-06-02 17:51:07.628530297,INFO,User 4399 logged in successfully
+2025-06-02 17:52:34.115016783,WARNING,Connection pool at 93% capacity
+2025-06-02 17:54:00.601503270,INFO,User 9460 logged in successfully
+2025-06-02 17:55:27.087989756,CRITICAL,Database connection lost: Permission denied
+2025-06-02 17:56:53.574476243,INFO,Request 60589 completed in 793ms
+2025-06-02 17:58:20.060962729,ERROR,File not found: /path/to/file_45.txt
+2025-06-02 17:59:46.547449216,WARNING,Slow query detected: 3243ms for query q_9657
+2025-06-02 18:01:13.033935702,INFO,Cache hit for key key_7
+2025-06-02 18:02:39.520422189,WARNING,Connection pool at 81% capacity
+2025-06-02 18:04:06.006908675,INFO,Request 74093 completed in 743ms
+2025-06-02 18:05:32.493395162,INFO,Request 45643 completed in 181ms
+2025-06-02 18:06:58.979881648,WARNING,Connection pool at 74% capacity
+2025-06-02 18:08:25.466368135,INFO,Background task 5121 started
+2025-06-02 18:09:51.952854621,ERROR,API request failed with status 404: Resource not found
+2025-06-02 18:11:18.439341108,INFO,Background task 9942 started
+2025-06-02 18:12:44.925827594,WARNING,Connection pool at 90% capacity
+2025-06-02 18:14:11.412314081,ERROR,API request failed with status 400: Connection timeout
+2025-06-02 18:15:37.898800567,WARNING,High memory usage detected: 78%
+2025-06-02 18:17:04.385287054,INFO,Background task 6972 started
+2025-06-02 18:18:30.871773540,INFO,Cache hit for key key_21
+2025-06-02 18:19:57.358260027,INFO,Cache hit for key key_43
+2025-06-02 18:21:23.844746513,WARNING,Slow query detected: 1315ms for query q_2926
+2025-06-02 18:22:50.331233000,INFO,User 7790 logged in successfully
+2025-06-02 18:24:16.817719486,INFO,Cache hit for key key_4
+2025-06-02 18:25:43.304205972,INFO,Request 59952 completed in 495ms
+2025-06-02 18:27:09.790692459,WARNING,Cache miss for key key_92
+2025-06-02 18:28:36.277178945,INFO,Cache hit for key key_77
+2025-06-02 18:30:02.763665432,CRITICAL,Critical security breach detected: IP: 192.168.1.221
+2025-06-02 18:31:29.250151918,WARNING,Connection pool at 90% capacity
+2025-06-02 18:32:55.736638405,WARNING,Retry attempt 3 for operation op_9190
+2025-06-02 18:34:22.223124891,ERROR,API request failed with status 400: Connection timeout
+2025-06-02 18:35:48.709611378,INFO,User 9546 logged in successfully
+2025-06-02 18:37:15.196097864,INFO,Request 86467 completed in 458ms
+2025-06-02 18:38:41.682584351,INFO,Cache hit for key key_75
+2025-06-02 18:40:08.169070837,INFO,User 4316 logged in successfully
+2025-06-02 18:41:34.655557324,ERROR,Invalid input data: Connection timeout
+2025-06-02 18:43:01.142043810,INFO,Request 28224 completed in 804ms
+2025-06-02 18:44:27.628530297,INFO,Database connection pool size: 17
+2025-06-02 18:45:54.115016783,WARNING,Retry attempt 3 for operation op_5942
+2025-06-02 18:47:20.601503270,INFO,Request 35695 completed in 106ms
+2025-06-02 18:48:47.087989756,INFO,Request 23063 completed in 281ms
+2025-06-02 18:50:13.574476243,INFO,Database connection pool size: 8
+2025-06-02 18:51:40.060962729,ERROR,Task task_5389 failed after 2 attempts
+2025-06-02 18:53:06.547449216,WARNING,Retry attempt 2 for operation op_2211
+2025-06-02 18:54:33.033935702,INFO,Request 87371 completed in 748ms
+2025-06-02 18:55:59.520422189,CRITICAL,Service api-gateway crashed: Authentication failed
+2025-06-02 18:57:26.006908675,WARNING,Connection pool at 77% capacity
+2025-06-02 18:58:52.493395162,INFO,Request 24061 completed in 31ms
+2025-06-02 19:00:18.979881648,INFO,Request 80327 completed in 515ms
+2025-06-02 19:01:45.466368135,INFO,User 3247 logged in successfully
+2025-06-02 19:03:11.952854621,INFO,User 3076 logged in successfully
+2025-06-02 19:04:38.439341108,INFO,Cache hit for key key_73
+2025-06-02 19:06:04.925827594,INFO,User 2228 logged in successfully
+2025-06-02 19:07:31.412314081,INFO,User 6670 logged in successfully
+2025-06-02 19:08:57.898800567,ERROR,Failed to connect to database: Resource not found
+2025-06-02 19:10:24.385287054,INFO,Database connection pool size: 15
+2025-06-02 19:11:50.871773540,INFO,Request 36148 completed in 672ms
+2025-06-02 19:13:17.358260027,INFO,User 1646 logged in successfully
+2025-06-02 19:14:43.844746513,INFO,Background task 1503 started
+2025-06-02 19:16:10.331233000,WARNING,Connection pool at 75% capacity
+2025-06-02 19:17:36.817719486,INFO,Request 98364 completed in 694ms
+2025-06-02 19:19:03.304205972,WARNING,Cache miss for key key_16
+2025-06-02 19:20:29.790692459,WARNING,High memory usage detected: 83%
+2025-06-02 19:21:56.277178945,INFO,Database connection pool size: 10
+2025-06-02 19:23:22.763665432,INFO,Database connection pool size: 8
+2025-06-02 19:24:49.250151918,CRITICAL,Critical security breach detected: IP: 192.168.1.11
+2025-06-02 19:26:15.736638405,INFO,Request 80339 completed in 21ms
+2025-06-02 19:27:42.223124891,WARNING,Cache miss for key key_11
+2025-06-02 19:29:08.709611378,ERROR,API request failed with status 401: Invalid credentials
+2025-06-02 19:30:35.196097864,INFO,Cache hit for key key_94
+2025-06-02 19:32:01.682584351,ERROR,Task task_2694 failed after 3 attempts
+2025-06-02 19:33:28.169070837,INFO,Request 34722 completed in 905ms
+2025-06-02 19:34:54.655557324,INFO,Database connection pool size: 14
+2025-06-02 19:36:21.142043810,WARNING,Slow query detected: 2870ms for query q_3786
+2025-06-02 19:37:47.628530297,INFO,Database connection pool size: 13
+2025-06-02 19:39:14.115016783,INFO,Database connection pool size: 11
+2025-06-02 19:40:40.601503270,INFO,Database connection pool size: 7
+2025-06-02 19:42:07.087989756,WARNING,Connection pool at 82% capacity
+2025-06-02 19:43:33.574476243,INFO,Request 77978 completed in 964ms
+2025-06-02 19:45:00.060962729,INFO,Database connection pool size: 15
+2025-06-02 19:46:26.547449216,INFO,Request 96319 completed in 773ms
+2025-06-02 19:47:53.033935702,INFO,Request 61798 completed in 743ms
+2025-06-02 19:49:19.520422189,INFO,Cache hit for key key_61
+2025-06-02 19:50:46.006908675,ERROR,Failed to connect to database: Permission denied
+2025-06-02 19:52:12.493395162,INFO,User 2601 logged in successfully
+2025-06-02 19:53:38.979881648,WARNING,Retry attempt 1 for operation op_8232
+2025-06-02 19:55:05.466368135,WARNING,Connection pool at 92% capacity
+2025-06-02 19:56:31.952854621,INFO,Database connection pool size: 17
+2025-06-02 19:57:58.439341108,INFO,User 5153 logged in successfully
+2025-06-02 19:59:24.925827594,INFO,Database connection pool size: 7
+2025-06-02 20:00:51.412314081,INFO,Request 30861 completed in 57ms
+2025-06-02 20:02:17.898800567,INFO,Database connection pool size: 7
+2025-06-02 20:03:44.385287054,WARNING,High memory usage detected: 77%
+2025-06-02 20:05:10.871773540,WARNING,Cache miss for key key_31
+2025-06-02 20:06:37.358260027,INFO,Request 57526 completed in 575ms
+2025-06-02 20:08:03.844746513,ERROR,Invalid input data: Connection timeout
+2025-06-02 20:09:30.331233000,INFO,User 9169 logged in successfully
+2025-06-02 20:10:56.817719486,WARNING,Slow query detected: 2678ms for query q_6074
+2025-06-02 20:12:23.304205972,INFO,Background task 3119 started
+2025-06-02 20:13:49.790692459,INFO,Cache hit for key key_97
+2025-06-02 20:15:16.277178945,INFO,Cache hit for key key_75
+2025-06-02 20:16:42.763665432,INFO,Database connection pool size: 9
+2025-06-02 20:18:09.250151918,INFO,Request 87551 completed in 992ms
+2025-06-02 20:19:35.736638405,INFO,Request 54679 completed in 387ms
+2025-06-02 20:21:02.223124891,INFO,User 5964 logged in successfully
+2025-06-02 20:22:28.709611378,INFO,Cache hit for key key_65
+2025-06-02 20:23:55.196097864,WARNING,Slow query detected: 4615ms for query q_1222
+2025-06-02 20:25:21.682584351,INFO,Database connection pool size: 18
+2025-06-02 20:26:48.169070837,WARNING,Retry attempt 1 for operation op_6267
+2025-06-02 20:28:14.655557324,INFO,Request 51441 completed in 496ms
+2025-06-02 20:29:41.142043810,INFO,Cache hit for key key_10
+2025-06-02 20:31:07.628530297,INFO,Database connection pool size: 13
+2025-06-02 20:32:34.115016783,INFO,Database connection pool size: 18
+2025-06-02 20:34:00.601503270,ERROR,File not found: /path/to/file_52.txt
+2025-06-02 20:35:27.087989756,INFO,Background task 9048 started
+2025-06-02 20:36:53.574476243,ERROR,API request failed with status 404: Permission denied
+2025-06-02 20:38:20.060962729,INFO,Request 89470 completed in 381ms
+2025-06-02 20:39:46.547449216,INFO,Background task 9529 started
+2025-06-02 20:41:13.033935702,INFO,User 1341 logged in successfully
+2025-06-02 20:42:39.520422189,WARNING,Slow query detected: 4087ms for query q_4817
+2025-06-02 20:44:06.006908675,INFO,Cache hit for key key_24
+2025-06-02 20:45:32.493395162,ERROR,API request failed with status 400: Authentication failed
+2025-06-02 20:46:58.979881648,ERROR,Failed to connect to database: Connection timeout
+2025-06-02 20:48:25.466368135,WARNING,Retry attempt 3 for operation op_6876
+2025-06-02 20:49:51.952854621,INFO,Request 35504 completed in 882ms
+2025-06-02 20:51:18.439341108,INFO,Database connection pool size: 17
+2025-06-02 20:52:44.925827594,INFO,Cache hit for key key_13
+2025-06-02 20:54:11.412314081,CRITICAL,Service auth-service crashed: Authentication failed
+2025-06-02 20:55:37.898800567,WARNING,Retry attempt 2 for operation op_5657
+2025-06-02 20:57:04.385287054,INFO,User 2961 logged in successfully
+2025-06-02 20:58:30.871773540,CRITICAL,Database connection lost: Authentication failed
+2025-06-02 20:59:57.358260027,WARNING,Slow query detected: 2182ms for query q_8073
+2025-06-02 21:01:23.844746513,ERROR,File not found: /path/to/file_16.txt
+2025-06-02 21:02:50.331232999,CRITICAL,Service auth-service crashed: Authentication failed
+2025-06-02 21:04:16.817719486,INFO,Database connection pool size: 17
+2025-06-02 21:05:43.304205972,INFO,Background task 4272 started
+2025-06-02 21:07:09.790692459,ERROR,Invalid input data: Resource not found
+2025-06-02 21:08:36.277178945,INFO,Request 26963 completed in 979ms
+2025-06-02 21:10:02.763665432,WARNING,Cache miss for key key_29
+2025-06-02 21:11:29.250151918,INFO,User 1026 logged in successfully
+2025-06-02 21:12:55.736638405,WARNING,Slow query detected: 4223ms for query q_5626
+2025-06-02 21:14:22.223124891,ERROR,Failed to connect to database: Permission denied
+2025-06-02 21:15:48.709611378,ERROR,Failed to connect to database: Resource not found
+2025-06-02 21:17:15.196097864,INFO,Database connection pool size: 9
+2025-06-02 21:18:41.682584351,ERROR,Failed to connect to database: Resource not found
+2025-06-02 21:20:08.169070837,WARNING,Retry attempt 1 for operation op_4445
+2025-06-02 21:21:34.655557324,INFO,User 4827 logged in successfully
+2025-06-02 21:23:01.142043810,WARNING,Slow query detected: 2729ms for query q_2674
+2025-06-02 21:24:27.628530297,WARNING,High memory usage detected: 80%
+2025-06-02 21:25:54.115016783,WARNING,Cache miss for key key_49
+2025-06-02 21:27:20.601503270,INFO,Cache hit for key key_40
+2025-06-02 21:28:47.087989756,INFO,Request 89283 completed in 57ms
+2025-06-02 21:30:13.574476243,INFO,Background task 2277 started
+2025-06-02 21:31:40.060962729,CRITICAL,System shutdown initiated: Emergency maintenance
+2025-06-02 21:33:06.547449216,INFO,Cache hit for key key_2
+2025-06-02 21:34:33.033935702,INFO,Request 52795 completed in 442ms
+2025-06-02 21:35:59.520422189,INFO,Database connection pool size: 12
+2025-06-02 21:37:26.006908675,WARNING,Retry attempt 4 for operation op_6554
+2025-06-02 21:38:52.493395162,WARNING,Retry attempt 2 for operation op_6052
+2025-06-02 21:40:18.979881648,INFO,Database connection pool size: 16
+2025-06-02 21:41:45.466368135,INFO,User 8053 logged in successfully
+2025-06-02 21:43:11.952854621,WARNING,High memory usage detected: 94%
+2025-06-02 21:44:38.439341108,WARNING,Connection pool at 86% capacity
+2025-06-02 21:46:04.925827594,INFO,Cache hit for key key_64
+2025-06-02 21:47:31.412314081,INFO,Cache hit for key key_78
+2025-06-02 21:48:57.898800567,WARNING,High memory usage detected: 93%
+2025-06-02 21:50:24.385287054,ERROR,Task task_7561 failed after 2 attempts
+2025-06-02 21:51:50.871773540,WARNING,Retry attempt 2 for operation op_7747
+2025-06-02 21:53:17.358260027,INFO,User 5507 logged in successfully
+2025-06-02 21:54:43.844746513,INFO,Cache hit for key key_92
+2025-06-02 21:56:10.331233000,INFO,Database connection pool size: 12
+2025-06-02 21:57:36.817719486,INFO,User 6812 logged in successfully
+2025-06-02 21:59:03.304205972,INFO,Background task 6405 started
+2025-06-02 22:00:29.790692459,INFO,Background task 8719 started
+2025-06-02 22:01:56.277178945,WARNING,High memory usage detected: 77%
+2025-06-02 22:03:22.763665432,INFO,Background task 1247 started
+2025-06-02 22:04:49.250151918,ERROR,API request failed with status 503: Invalid credentials
+2025-06-02 22:06:15.736638405,WARNING,High memory usage detected: 76%
+2025-06-02 22:07:42.223124891,INFO,Cache hit for key key_35
+2025-06-02 22:09:08.709611378,INFO,Background task 8373 started
+2025-06-02 22:10:35.196097864,WARNING,Cache miss for key key_83
+2025-06-02 22:12:01.682584351,WARNING,Retry attempt 2 for operation op_2302
+2025-06-02 22:13:28.169070837,INFO,Cache hit for key key_92
+2025-06-02 22:14:54.655557324,WARNING,Slow query detected: 2669ms for query q_6025
+2025-06-02 22:16:21.142043810,INFO,Database connection pool size: 17
+2025-06-02 22:17:47.628530297,ERROR,File not found: /path/to/file_29.txt
+2025-06-02 22:19:14.115016783,ERROR,Invalid input data: Permission denied
+2025-06-02 22:20:40.601503270,INFO,Request 39294 completed in 336ms
+2025-06-02 22:22:07.087989756,INFO,Request 81244 completed in 866ms
+2025-06-02 22:23:33.574476243,CRITICAL,Service user-service crashed: Authentication failed
+2025-06-02 22:25:00.060962729,WARNING,High memory usage detected: 86%
+2025-06-02 22:26:26.547449216,INFO,Database connection pool size: 16
+2025-06-02 22:27:53.033935702,INFO,Database connection pool size: 16
+2025-06-02 22:29:19.520422189,INFO,Background task 4739 started
+2025-06-02 22:30:46.006908675,INFO,Request 66304 completed in 88ms
+2025-06-02 22:32:12.493395162,WARNING,Slow query detected: 4908ms for query q_1626
+2025-06-02 22:33:38.979881648,WARNING,Cache miss for key key_61
+2025-06-02 22:35:05.466368135,WARNING,High memory usage detected: 72%
+2025-06-02 22:36:31.952854621,INFO,Request 65764 completed in 58ms
+2025-06-02 22:37:58.439341108,WARNING,Cache miss for key key_68
+2025-06-02 22:39:24.925827594,WARNING,Connection pool at 87% capacity
+2025-06-02 22:40:51.412314081,CRITICAL,Service payment-service crashed: Authentication failed
+2025-06-02 22:42:17.898800567,ERROR,Task task_8434 failed after 1 attempts
+2025-06-02 22:43:44.385287054,INFO,Background task 3921 started
+2025-06-02 22:45:10.871773540,CRITICAL,Database connection lost: Permission denied
+2025-06-02 22:46:37.358260027,WARNING,Cache miss for key key_81
+2025-06-02 22:48:03.844746513,WARNING,High memory usage detected: 81%
+2025-06-02 22:49:30.331233000,INFO,Database connection pool size: 5
+2025-06-02 22:50:56.817719486,INFO,Request 46403 completed in 828ms
+2025-06-02 22:52:23.304205972,INFO,Cache hit for key key_48
+2025-06-02 22:53:49.790692459,INFO,User 4302 logged in successfully
+2025-06-02 22:55:16.277178945,INFO,User 6307 logged in successfully
+2025-06-02 22:56:42.763665432,INFO,User 1424 logged in successfully
+2025-06-02 22:58:09.250151918,WARNING,Slow query detected: 3000ms for query q_3931
+2025-06-02 22:59:35.736638405,WARNING,Slow query detected: 1112ms for query q_8049
+2025-06-02 23:01:02.223124891,WARNING,Retry attempt 1 for operation op_4749
+2025-06-02 23:02:28.709611378,WARNING,Retry attempt 1 for operation op_9438
+2025-06-02 23:03:55.196097864,INFO,Database connection pool size: 14
+2025-06-02 23:05:21.682584351,INFO,Background task 6518 started
+2025-06-02 23:06:48.169070837,INFO,Background task 7911 started
+2025-06-02 23:08:14.655557324,INFO,Background task 8330 started
+2025-06-02 23:09:41.142043810,INFO,Cache hit for key key_81
+2025-06-02 23:11:07.628530297,INFO,Background task 9448 started
+2025-06-02 23:12:34.115016783,WARNING,High memory usage detected: 90%
+2025-06-02 23:14:00.601503270,WARNING,Retry attempt 3 for operation op_3106
+2025-06-02 23:15:27.087989756,WARNING,Connection pool at 91% capacity
+2025-06-02 23:16:53.574476243,INFO,User 2442 logged in successfully
+2025-06-02 23:18:20.060962729,INFO,Background task 1452 started
+2025-06-02 23:19:46.547449216,WARNING,Retry attempt 4 for operation op_2851
+2025-06-02 23:21:13.033935702,INFO,Request 88916 completed in 532ms
+2025-06-02 23:22:39.520422189,INFO,Background task 5837 started
+2025-06-02 23:24:06.006908675,WARNING,Slow query detected: 1541ms for query q_1242
+2025-06-02 23:25:32.493395162,INFO,Request 52080 completed in 890ms
+2025-06-02 23:26:58.979881648,WARNING,Retry attempt 4 for operation op_5321
+2025-06-02 23:28:25.466368135,INFO,User 5382 logged in successfully
+2025-06-02 23:29:51.952854621,INFO,User 1804 logged in successfully
+2025-06-02 23:31:18.439341108,INFO,Cache hit for key key_37
+2025-06-02 23:32:44.925827594,WARNING,Retry attempt 3 for operation op_7237
+2025-06-02 23:34:11.412314081,INFO,Background task 4124 started
+2025-06-02 23:35:37.898800567,WARNING,High memory usage detected: 76%
+2025-06-02 23:37:04.385287054,WARNING,Slow query detected: 4095ms for query q_8287
+2025-06-02 23:38:30.871773540,INFO,Background task 1698 started
+2025-06-02 23:39:57.358260027,WARNING,Cache miss for key key_22
+2025-06-02 23:41:23.844746513,WARNING,Retry attempt 4 for operation op_6828
+2025-06-02 23:42:50.331233000,WARNING,Cache miss for key key_12
+2025-06-02 23:44:16.817719486,INFO,User 1235 logged in successfully
+2025-06-02 23:45:43.304205972,INFO,Database connection pool size: 14
+2025-06-02 23:47:09.790692459,INFO,Database connection pool size: 9
+2025-06-02 23:48:36.277178945,WARNING,Retry attempt 1 for operation op_1084
+2025-06-02 23:50:02.763665432,CRITICAL,Service auth-service crashed: Connection lost
+2025-06-02 23:51:29.250151918,INFO,Database connection pool size: 10
+2025-06-02 23:52:55.736638405,INFO,Background task 1852 started
+2025-06-02 23:54:22.223124891,INFO,Background task 2550 started
+2025-06-02 23:55:48.709611378,INFO,Background task 7585 started
+2025-06-02 23:57:15.196097864,WARNING,Slow query detected: 4699ms for query q_2014
+2025-06-02 23:58:41.682584351,INFO,Database connection pool size: 16
+2025-06-03 00:00:08.169070837,INFO,User 4006 logged in successfully
+2025-06-03 00:01:34.655557324,CRITICAL,Disk space critical: 4MB remaining
+2025-06-03 00:03:01.142043810,INFO,User 8288 logged in successfully
+2025-06-03 00:04:27.628530297,INFO,User 9816 logged in successfully
+2025-06-03 00:05:54.115016783,INFO,Request 45457 completed in 713ms
+2025-06-03 00:07:20.601503270,WARNING,Slow query detected: 3322ms for query q_6118
+2025-06-03 00:08:47.087989756,INFO,Background task 9268 started
+2025-06-03 00:10:13.574476243,INFO,Cache hit for key key_8
+2025-06-03 00:11:40.060962729,WARNING,Cache miss for key key_16
+2025-06-03 00:13:06.547449216,INFO,Cache hit for key key_8
+2025-06-03 00:14:33.033935702,CRITICAL,Service payment-service crashed: Authentication failed
+2025-06-03 00:15:59.520422189,INFO,Database connection pool size: 9
+2025-06-03 00:17:26.006908675,WARNING,Connection pool at 84% capacity
+2025-06-03 00:18:52.493395162,INFO,User 3045 logged in successfully
+2025-06-03 00:20:18.979881648,WARNING,Slow query detected: 3276ms for query q_8202
+2025-06-03 00:21:45.466368135,INFO,Background task 8051 started
+2025-06-03 00:23:11.952854621,INFO,User 4146 logged in successfully
+2025-06-03 00:24:38.439341108,INFO,Cache hit for key key_10
+2025-06-03 00:26:04.925827594,WARNING,Retry attempt 2 for operation op_9820
+2025-06-03 00:27:31.412314081,ERROR,File not found: /path/to/file_49.txt
+2025-06-03 00:28:57.898800567,INFO,Database connection pool size: 11
+2025-06-03 00:30:24.385287054,INFO,Cache hit for key key_49
+2025-06-03 00:31:50.871773540,INFO,Background task 5897 started
+2025-06-03 00:33:17.358260027,WARNING,Slow query detected: 2428ms for query q_9086
+2025-06-03 00:34:43.844746513,INFO,User 7298 logged in successfully
+2025-06-03 00:36:10.331233000,INFO,Request 12146 completed in 890ms
+2025-06-03 00:37:36.817719486,INFO,Database connection pool size: 6
+2025-06-03 00:39:03.304205972,CRITICAL,Disk space critical: 24MB remaining
+2025-06-03 00:40:29.790692459,ERROR,File not found: /path/to/file_27.txt
+2025-06-03 00:41:56.277178945,INFO,Request 39090 completed in 861ms
+2025-06-03 00:43:22.763665432,INFO,Request 82088 completed in 450ms
+2025-06-03 00:44:49.250151918,INFO,Database connection pool size: 10
+2025-06-03 00:46:15.736638405,INFO,Database connection pool size: 15
+2025-06-03 00:47:42.223124891,INFO,Request 32780 completed in 914ms
+2025-06-03 00:49:08.709611378,INFO,Background task 6436 started
+2025-06-03 00:50:35.196097864,INFO,Request 66666 completed in 490ms
+2025-06-03 00:52:01.682584351,INFO,Cache hit for key key_60
+2025-06-03 00:53:28.169070837,WARNING,Cache miss for key key_42
+2025-06-03 00:54:54.655557324,INFO,Database connection pool size: 5
+2025-06-03 00:56:21.142043810,INFO,User 9951 logged in successfully
+2025-06-03 00:57:47.628530297,INFO,Background task 8123 started
+2025-06-03 00:59:14.115016783,INFO,Background task 6911 started
+2025-06-03 01:00:40.601503270,INFO,User 5543 logged in successfully
+2025-06-03 01:02:07.087989756,INFO,User 1998 logged in successfully
+2025-06-03 01:03:33.574476243,ERROR,Invalid input data: Authentication failed
+2025-06-03 01:05:00.060962729,CRITICAL,Disk space critical: 15MB remaining
+2025-06-03 01:06:26.547449216,INFO,Request 67595 completed in 899ms
+2025-06-03 01:07:53.033935702,INFO,Request 18553 completed in 857ms
+2025-06-03 01:09:19.520422189,INFO,Request 64150 completed in 35ms
+2025-06-03 01:10:46.006908675,INFO,Database connection pool size: 13
+2025-06-03 01:12:12.493395162,WARNING,Connection pool at 71% capacity
+2025-06-03 01:13:38.979881648,INFO,Cache hit for key key_79
+2025-06-03 01:15:05.466368135,INFO,Request 58394 completed in 861ms
+2025-06-03 01:16:31.952854621,INFO,Cache hit for key key_95
+2025-06-03 01:17:58.439341108,CRITICAL,Service user-service crashed: Resource not found
+2025-06-03 01:19:24.925827594,INFO,User 4069 logged in successfully
+2025-06-03 01:20:51.412314081,INFO,Background task 6680 started
+2025-06-03 01:22:17.898800567,INFO,Background task 3471 started
+2025-06-03 01:23:44.385287054,WARNING,Slow query detected: 3604ms for query q_5040
+2025-06-03 01:25:10.871773540,INFO,Request 96304 completed in 781ms
+2025-06-03 01:26:37.358260027,INFO,Background task 2128 started
+2025-06-03 01:28:03.844746513,INFO,Background task 1667 started
+2025-06-03 01:29:30.331233000,INFO,User 6559 logged in successfully
+2025-06-03 01:30:56.817719486,INFO,Request 10046 completed in 206ms
+2025-06-03 01:32:23.304205972,INFO,User 2362 logged in successfully
+2025-06-03 01:33:49.790692459,INFO,User 4029 logged in successfully
+2025-06-03 01:35:16.277178945,INFO,Database connection pool size: 6
+2025-06-03 01:36:42.763665432,INFO,Request 12884 completed in 166ms
+2025-06-03 01:38:09.250151918,INFO,Cache hit for key key_99
+2025-06-03 01:39:35.736638405,INFO,Database connection pool size: 18
+2025-06-03 01:41:02.223124891,INFO,Cache hit for key key_81
+2025-06-03 01:42:28.709611378,INFO,Database connection pool size: 5
+2025-06-03 01:43:55.196097864,INFO,Database connection pool size: 5
+2025-06-03 01:45:21.682584351,INFO,Request 93637 completed in 905ms
+2025-06-03 01:46:48.169070837,INFO,User 3452 logged in successfully
+2025-06-03 01:48:14.655557324,WARNING,Connection pool at 90% capacity
+2025-06-03 01:49:41.142043810,INFO,Background task 1638 started
+2025-06-03 01:51:07.628530297,INFO,User 8236 logged in successfully
+2025-06-03 01:52:34.115016783,ERROR,API request failed with status 400: Resource not found
+2025-06-03 01:54:00.601503270,INFO,Background task 1802 started
+2025-06-03 01:55:27.087989756,ERROR,Task task_5892 failed after 4 attempts
+2025-06-03 01:56:53.574476243,INFO,Request 46551 completed in 218ms
+2025-06-03 01:58:20.060962729,WARNING,Cache miss for key key_24
+2025-06-03 01:59:46.547449216,INFO,Background task 9225 started
+2025-06-03 02:01:13.033935702,INFO,Background task 6040 started
+2025-06-03 02:02:39.520422189,INFO,Cache hit for key key_7
+2025-06-03 02:04:06.006908675,INFO,Cache hit for key key_46
+2025-06-03 02:05:32.493395162,ERROR,File not found: /path/to/file_83.txt
+2025-06-03 02:06:58.979881648,INFO,User 9503 logged in successfully
+2025-06-03 02:08:25.466368135,INFO,User 8197 logged in successfully
+2025-06-03 02:09:51.952854621,INFO,Database connection pool size: 19
+2025-06-03 02:11:18.439341108,WARNING,Cache miss for key key_38
+2025-06-03 02:12:44.925827594,WARNING,Slow query detected: 3759ms for query q_5093
+2025-06-03 02:14:11.412314081,INFO,Cache hit for key key_84
+2025-06-03 02:15:37.898800567,INFO,Database connection pool size: 19
+2025-06-03 02:17:04.385287054,ERROR,API request failed with status 404: Invalid credentials
+2025-06-03 02:18:30.871773540,INFO,Cache hit for key key_63
+2025-06-03 02:19:57.358260027,WARNING,Cache miss for key key_56
+2025-06-03 02:21:23.844746513,WARNING,Connection pool at 76% capacity
+2025-06-03 02:22:50.331233000,INFO,Cache hit for key key_96
+2025-06-03 02:24:16.817719486,ERROR,Invalid input data: Authentication failed
+2025-06-03 02:25:43.304205972,WARNING,Cache miss for key key_93
+2025-06-03 02:27:09.790692459,WARNING,Retry attempt 1 for operation op_1656
+2025-06-03 02:28:36.277178945,INFO,Database connection pool size: 7
+2025-06-03 02:30:02.763665432,INFO,Database connection pool size: 12
+2025-06-03 02:31:29.250151918,INFO,Database connection pool size: 13
+2025-06-03 02:32:55.736638405,INFO,Cache hit for key key_89
+2025-06-03 02:34:22.223124891,WARNING,High memory usage detected: 85%
+2025-06-03 02:35:48.709611378,INFO,Background task 4938 started
+2025-06-03 02:37:15.196097864,INFO,User 5727 logged in successfully
+2025-06-03 02:38:41.682584351,WARNING,Cache miss for key key_47
+2025-06-03 02:40:08.169070837,WARNING,Retry attempt 1 for operation op_4278
+2025-06-03 02:41:34.655557324,ERROR,Failed to connect to database: Connection timeout
+2025-06-03 02:43:01.142043810,INFO,User 8706 logged in successfully
+2025-06-03 02:44:27.628530297,WARNING,Cache miss for key key_65
+2025-06-03 02:45:54.115016783,INFO,User 7408 logged in successfully
+2025-06-03 02:47:20.601503270,INFO,Background task 7343 started
+2025-06-03 02:48:47.087989756,INFO,User 6224 logged in successfully
+2025-06-03 02:50:13.574476243,ERROR,Invalid input data: Connection timeout
+2025-06-03 02:51:40.060962729,WARNING,High memory usage detected: 79%
+2025-06-03 02:53:06.547449216,INFO,Background task 2023 started
+2025-06-03 02:54:33.033935702,INFO,User 1027 logged in successfully
+2025-06-03 02:55:59.520422189,INFO,User 5767 logged in successfully
+2025-06-03 02:57:26.006908675,WARNING,Slow query detected: 2621ms for query q_4506
+2025-06-03 02:58:52.493395162,INFO,User 6405 logged in successfully
+2025-06-03 03:00:18.979881648,INFO,Background task 1610 started
+2025-06-03 03:01:45.466368135,INFO,Request 99971 completed in 680ms
+2025-06-03 03:03:11.952854621,WARNING,Slow query detected: 3694ms for query q_9017
+2025-06-03 03:04:38.439341108,CRITICAL,Disk space critical: 20MB remaining
+2025-06-03 03:06:04.925827594,WARNING,Retry attempt 1 for operation op_6609
+2025-06-03 03:07:31.412314081,INFO,Cache hit for key key_18
+2025-06-03 03:08:57.898800567,ERROR,File not found: /path/to/file_65.txt
+2025-06-03 03:10:24.385287054,INFO,Request 95352 completed in 984ms
+2025-06-03 03:11:50.871773540,CRITICAL,Database connection lost: Authentication failed
+2025-06-03 03:13:17.358260027,INFO,Request 59373 completed in 221ms
+2025-06-03 03:14:43.844746513,WARNING,High memory usage detected: 76%
+2025-06-03 03:16:10.331233000,INFO,Background task 3475 started
+2025-06-03 03:17:36.817719486,INFO,Database connection pool size: 17
+2025-06-03 03:19:03.304205972,WARNING,Slow query detected: 3700ms for query q_8752
+2025-06-03 03:20:29.790692459,INFO,User 5734 logged in successfully
+2025-06-03 03:21:56.277178945,INFO,Background task 4918 started
+2025-06-03 03:23:22.763665432,ERROR,Task task_2700 failed after 4 attempts
+2025-06-03 03:24:49.250151918,WARNING,Cache miss for key key_85
+2025-06-03 03:26:15.736638405,INFO,Background task 9503 started
+2025-06-03 03:27:42.223124891,INFO,Background task 6352 started
+2025-06-03 03:29:08.709611378,ERROR,Invalid input data: Invalid credentials
+2025-06-03 03:30:35.196097864,INFO,Background task 7487 started
+2025-06-03 03:32:01.682584351,ERROR,Failed to connect to database: Authentication failed
+2025-06-03 03:33:28.169070837,WARNING,High memory usage detected: 77%
+2025-06-03 03:34:54.655557324,INFO,Request 17100 completed in 770ms
+2025-06-03 03:36:21.142043810,INFO,Cache hit for key key_17
+2025-06-03 03:37:47.628530297,INFO,User 9458 logged in successfully
+2025-06-03 03:39:14.115016783,ERROR,File not found: /path/to/file_83.txt
+2025-06-03 03:40:40.601503270,INFO,Database connection pool size: 13
+2025-06-03 03:42:07.087989756,INFO,Cache hit for key key_29
+2025-06-03 03:43:33.574476243,ERROR,Failed to connect to database: Authentication failed
+2025-06-03 03:45:00.060962729,INFO,Background task 1887 started
+2025-06-03 03:46:26.547449216,INFO,Background task 3451 started
+2025-06-03 03:47:53.033935702,INFO,Database connection pool size: 10
+2025-06-03 03:49:19.520422189,INFO,Background task 4614 started
+2025-06-03 03:50:46.006908675,CRITICAL,Database connection lost: Authentication failed
+2025-06-03 03:52:12.493395162,WARNING,Retry attempt 1 for operation op_3378
+2025-06-03 03:53:38.979881648,INFO,Background task 5685 started
+2025-06-03 03:55:05.466368135,WARNING,Cache miss for key key_96
+2025-06-03 03:56:31.952854621,WARNING,Connection pool at 79% capacity
+2025-06-03 03:57:58.439341108,INFO,User 4026 logged in successfully
+2025-06-03 03:59:24.925827594,INFO,Request 38107 completed in 350ms
+2025-06-03 04:00:51.412314081,INFO,Database connection pool size: 18
+2025-06-03 04:02:17.898800567,INFO,User 5253 logged in successfully
+2025-06-03 04:03:44.385287054,INFO,Database connection pool size: 14
+2025-06-03 04:05:10.871773540,WARNING,Connection pool at 85% capacity
+2025-06-03 04:06:37.358260027,WARNING,High memory usage detected: 79%
+2025-06-03 04:08:03.844746513,INFO,User 9201 logged in successfully
+2025-06-03 04:09:30.331233000,WARNING,Cache miss for key key_32
+2025-06-03 04:10:56.817719486,WARNING,Cache miss for key key_98
+2025-06-03 04:12:23.304205972,INFO,Background task 9838 started
+2025-06-03 04:13:49.790692459,INFO,Background task 5101 started
+2025-06-03 04:15:16.277178945,INFO,Request 22170 completed in 535ms
+2025-06-03 04:16:42.763665432,INFO,Cache hit for key key_91
+2025-06-03 04:18:09.250151918,INFO,Background task 2607 started
+2025-06-03 04:19:35.736638405,INFO,Background task 7670 started
+2025-06-03 04:21:02.223124891,WARNING,Cache miss for key key_80
+2025-06-03 04:22:28.709611378,INFO,Request 68336 completed in 368ms
+2025-06-03 04:23:55.196097864,INFO,Cache hit for key key_23
+2025-06-03 04:25:21.682584351,INFO,Background task 9937 started
+2025-06-03 04:26:48.169070837,WARNING,Retry attempt 4 for operation op_2570
+2025-06-03 04:28:14.655557324,ERROR,API request failed with status 400: Invalid credentials
+2025-06-03 04:29:41.142043810,INFO,Request 36116 completed in 542ms
+2025-06-03 04:31:07.628530297,WARNING,Retry attempt 1 for operation op_4053
+2025-06-03 04:32:34.115016783,INFO,Request 93202 completed in 612ms
+2025-06-03 04:34:00.601503270,WARNING,Retry attempt 1 for operation op_9098
+2025-06-03 04:35:27.087989756,WARNING,Slow query detected: 1640ms for query q_1110
+2025-06-03 04:36:53.574476243,INFO,Background task 2793 started
+2025-06-03 04:38:20.060962729,INFO,Cache hit for key key_59
+2025-06-03 04:39:46.547449216,ERROR,API request failed with status 401: Invalid credentials
+2025-06-03 04:41:13.033935702,INFO,Database connection pool size: 6
+2025-06-03 04:42:39.520422189,INFO,User 3265 logged in successfully
+2025-06-03 04:44:06.006908675,INFO,Request 75312 completed in 785ms
+2025-06-03 04:45:32.493395162,INFO,Request 25948 completed in 423ms
+2025-06-03 04:46:58.979881648,CRITICAL,Database connection lost: Authentication failed
+2025-06-03 04:48:25.466368135,INFO,Cache hit for key key_86
+2025-06-03 04:49:51.952854621,INFO,Cache hit for key key_32
+2025-06-03 04:51:18.439341108,INFO,User 3713 logged in successfully
+2025-06-03 04:52:44.925827594,INFO,Background task 9980 started
+2025-06-03 04:54:11.412314081,WARNING,Cache miss for key key_5
+2025-06-03 04:55:37.898800567,ERROR,Failed to connect to database: Invalid credentials
+2025-06-03 04:57:04.385287054,INFO,Background task 3805 started
+2025-06-03 04:58:30.871773540,INFO,User 6244 logged in successfully
+2025-06-03 04:59:57.358260027,INFO,Cache hit for key key_86
+2025-06-03 05:01:23.844746513,CRITICAL,Disk space critical: 58MB remaining
+2025-06-03 05:02:50.331232999,INFO,User 1401 logged in successfully
+2025-06-03 05:04:16.817719486,ERROR,API request failed with status 500: Authentication failed
+2025-06-03 05:05:43.304205972,INFO,Cache hit for key key_97
+2025-06-03 05:07:09.790692459,INFO,User 8492 logged in successfully
+2025-06-03 05:08:36.277178945,WARNING,Slow query detected: 3966ms for query q_5492
+2025-06-03 05:10:02.763665432,ERROR,File not found: /path/to/file_59.txt
+2025-06-03 05:11:29.250151918,WARNING,Cache miss for key key_42
+2025-06-03 05:12:55.736638405,WARNING,Retry attempt 2 for operation op_4120
+2025-06-03 05:14:22.223124891,INFO,Request 35444 completed in 683ms
+2025-06-03 05:15:48.709611378,INFO,Cache hit for key key_97
+2025-06-03 05:17:15.196097864,WARNING,Retry attempt 4 for operation op_2774
+2025-06-03 05:18:41.682584351,INFO,Background task 8425 started
+2025-06-03 05:20:08.169070837,INFO,Cache hit for key key_77
+2025-06-03 05:21:34.655557324,ERROR,File not found: /path/to/file_51.txt
+2025-06-03 05:23:01.142043810,ERROR,Failed to connect to database: Resource not found
+2025-06-03 05:24:27.628530297,INFO,Cache hit for key key_3
+2025-06-03 05:25:54.115016783,WARNING,Connection pool at 74% capacity
+2025-06-03 05:27:20.601503270,INFO,User 9125 logged in successfully
+2025-06-03 05:28:47.087989756,ERROR,Task task_5042 failed after 4 attempts
+2025-06-03 05:30:13.574476243,INFO,Cache hit for key key_95
+2025-06-03 05:31:40.060962729,INFO,Background task 1587 started
+2025-06-03 05:33:06.547449216,INFO,User 7944 logged in successfully
+2025-06-03 05:34:33.033935702,WARNING,Slow query detected: 2119ms for query q_3392
+2025-06-03 05:35:59.520422189,WARNING,Cache miss for key key_42
+2025-06-03 05:37:26.006908675,INFO,User 7986 logged in successfully
+2025-06-03 05:38:52.493395162,WARNING,Cache miss for key key_34
+2025-06-03 05:40:18.979881648,INFO,User 5956 logged in successfully
+2025-06-03 05:41:45.466368135,ERROR,Failed to connect to database: Connection timeout
+2025-06-03 05:43:11.952854621,INFO,Cache hit for key key_75
+2025-06-03 05:44:38.439341108,INFO,Cache hit for key key_80
+2025-06-03 05:46:04.925827594,INFO,Database connection pool size: 8
+2025-06-03 05:47:31.412314081,WARNING,Cache miss for key key_45
+2025-06-03 05:48:57.898800567,INFO,Database connection pool size: 9
+2025-06-03 05:50:24.385287054,INFO,Background task 4936 started
+2025-06-03 05:51:50.871773540,WARNING,Connection pool at 74% capacity
+2025-06-03 05:53:17.358260027,INFO,User 2789 logged in successfully
+2025-06-03 05:54:43.844746513,INFO,Background task 6520 started
+2025-06-03 05:56:10.331232999,INFO,User 9420 logged in successfully
+2025-06-03 05:57:36.817719486,INFO,Background task 5364 started
+2025-06-03 05:59:03.304205972,INFO,Request 74484 completed in 759ms
+2025-06-03 06:00:29.790692459,INFO,Request 70419 completed in 908ms
+2025-06-03 06:01:56.277178945,INFO,Cache hit for key key_19
+2025-06-03 06:03:22.763665432,INFO,Request 30844 completed in 854ms
+2025-06-03 06:04:49.250151918,ERROR,Task task_8095 failed after 3 attempts
+2025-06-03 06:06:15.736638405,INFO,Background task 9982 started
+2025-06-03 06:07:42.223124891,WARNING,High memory usage detected: 77%
+2025-06-03 06:09:08.709611378,WARNING,Cache miss for key key_40
+2025-06-03 06:10:35.196097864,WARNING,Connection pool at 74% capacity
+2025-06-03 06:12:01.682584351,WARNING,Retry attempt 2 for operation op_6086
+2025-06-03 06:13:28.169070837,WARNING,High memory usage detected: 85%
+2025-06-03 06:14:54.655557324,INFO,Database connection pool size: 12
+2025-06-03 06:16:21.142043810,INFO,Database connection pool size: 19
+2025-06-03 06:17:47.628530297,INFO,User 9178 logged in successfully
+2025-06-03 06:19:14.115016783,INFO,Background task 3132 started
+2025-06-03 06:20:40.601503270,WARNING,Connection pool at 86% capacity
+2025-06-03 06:22:07.087989756,INFO,Database connection pool size: 15
+2025-06-03 06:23:33.574476243,INFO,Request 97890 completed in 121ms
+2025-06-03 06:25:00.060962729,WARNING,Connection pool at 90% capacity
+2025-06-03 06:26:26.547449216,INFO,Database connection pool size: 16
+2025-06-03 06:27:53.033935702,INFO,Request 63931 completed in 371ms
+2025-06-03 06:29:19.520422189,ERROR,Failed to connect to database: Permission denied
+2025-06-03 06:30:46.006908675,ERROR,Task task_2511 failed after 3 attempts
+2025-06-03 06:32:12.493395162,CRITICAL,Database connection lost: Connection lost
+2025-06-03 06:33:38.979881648,ERROR,Failed to connect to database: Permission denied
+2025-06-03 06:35:05.466368135,INFO,Background task 2759 started
+2025-06-03 06:36:31.952854621,INFO,Background task 9779 started
+2025-06-03 06:37:58.439341108,INFO,User 4682 logged in successfully
+2025-06-03 06:39:24.925827594,CRITICAL,Disk space critical: 99MB remaining
+2025-06-03 06:40:51.412314081,INFO,Request 84302 completed in 318ms
+2025-06-03 06:42:17.898800567,INFO,Background task 7028 started
+2025-06-03 06:43:44.385287054,CRITICAL,System shutdown initiated: Emergency maintenance
+2025-06-03 06:45:10.871773540,CRITICAL,Disk space critical: 27MB remaining
+2025-06-03 06:46:37.358260027,CRITICAL,System shutdown initiated: Hardware failure
+2025-06-03 06:48:03.844746513,INFO,Database connection pool size: 14
+2025-06-03 06:49:30.331232999,INFO,Request 79359 completed in 219ms
+2025-06-03 06:50:56.817719486,CRITICAL,Database connection lost: Authentication failed
+2025-06-03 06:52:23.304205972,WARNING,Slow query detected: 4783ms for query q_5275
+2025-06-03 06:53:49.790692459,INFO,Background task 8463 started
+2025-06-03 06:55:16.277178945,ERROR,Task task_7452 failed after 3 attempts
+2025-06-03 06:56:42.763665432,ERROR,Task task_8415 failed after 2 attempts
+2025-06-03 06:58:09.250151918,INFO,Database connection pool size: 11
+2025-06-03 06:59:35.736638405,WARNING,Connection pool at 90% capacity
+2025-06-03 07:01:02.223124891,WARNING,Connection pool at 82% capacity
+2025-06-03 07:02:28.709611378,INFO,Cache hit for key key_69
+2025-06-03 07:03:55.196097864,INFO,Database connection pool size: 6
+2025-06-03 07:05:21.682584351,INFO,User 3306 logged in successfully
+2025-06-03 07:06:48.169070837,INFO,Background task 3967 started
+2025-06-03 07:08:14.655557324,INFO,Cache hit for key key_52
+2025-06-03 07:09:41.142043810,INFO,User 7506 logged in successfully
+2025-06-03 07:11:07.628530297,ERROR,API request failed with status 403: Permission denied
+2025-06-03 07:12:34.115016783,INFO,Cache hit for key key_57
+2025-06-03 07:14:00.601503270,WARNING,Retry attempt 2 for operation op_1462
+2025-06-03 07:15:27.087989756,INFO,Cache hit for key key_90
+2025-06-03 07:16:53.574476243,WARNING,Cache miss for key key_12
+2025-06-03 07:18:20.060962729,ERROR,Invalid input data: Connection timeout
+2025-06-03 07:19:46.547449216,ERROR,API request failed with status 503: Resource not found
+2025-06-03 07:21:13.033935702,INFO,User 9019 logged in successfully
+2025-06-03 07:22:39.520422189,ERROR,Invalid input data: Connection timeout
+2025-06-03 07:24:06.006908675,WARNING,Retry attempt 3 for operation op_9579
+2025-06-03 07:25:32.493395162,INFO,Database connection pool size: 13
+2025-06-03 07:26:58.979881648,INFO,Cache hit for key key_13
+2025-06-03 07:28:25.466368135,INFO,Database connection pool size: 5
+2025-06-03 07:29:51.952854621,ERROR,File not found: /path/to/file_56.txt
+2025-06-03 07:31:18.439341108,WARNING,Slow query detected: 2862ms for query q_4216
+2025-06-03 07:32:44.925827594,INFO,User 1525 logged in successfully
+2025-06-03 07:34:11.412314081,INFO,Cache hit for key key_11
+2025-06-03 07:35:37.898800567,INFO,Cache hit for key key_51
+2025-06-03 07:37:04.385287054,INFO,Database connection pool size: 18
+2025-06-03 07:38:30.871773540,INFO,Cache hit for key key_25
+2025-06-03 07:39:57.358260027,INFO,User 7472 logged in successfully
+2025-06-03 07:41:23.844746513,WARNING,High memory usage detected: 87%
+2025-06-03 07:42:50.331233000,INFO,Cache hit for key key_23
+2025-06-03 07:44:16.817719486,INFO,User 3843 logged in successfully
+2025-06-03 07:45:43.304205972,INFO,Background task 6889 started
+2025-06-03 07:47:09.790692459,INFO,Database connection pool size: 10
+2025-06-03 07:48:36.277178945,INFO,Background task 5717 started
+2025-06-03 07:50:02.763665432,INFO,Background task 4171 started
+2025-06-03 07:51:29.250151918,INFO,Request 88509 completed in 188ms
+2025-06-03 07:52:55.736638405,INFO,Background task 9975 started
+2025-06-03 07:54:22.223124891,INFO,Request 37442 completed in 49ms
+2025-06-03 07:55:48.709611378,INFO,Database connection pool size: 19
+2025-06-03 07:57:15.196097864,ERROR,Failed to connect to database: Permission denied
+2025-06-03 07:58:41.682584351,INFO,Request 65208 completed in 165ms
+2025-06-03 08:00:08.169070837,WARNING,High memory usage detected: 79%
+2025-06-03 08:01:34.655557324,WARNING,Cache miss for key key_95
+2025-06-03 08:03:01.142043810,INFO,Request 68172 completed in 568ms
+2025-06-03 08:04:27.628530297,INFO,User 8037 logged in successfully
+2025-06-03 08:05:54.115016783,INFO,Cache hit for key key_29
+2025-06-03 08:07:20.601503270,WARNING,Connection pool at 71% capacity
+2025-06-03 08:08:47.087989756,INFO,User 2860 logged in successfully
+2025-06-03 08:10:13.574476243,WARNING,Connection pool at 84% capacity
+2025-06-03 08:11:40.060962729,WARNING,Cache miss for key key_86
+2025-06-03 08:13:06.547449216,INFO,Database connection pool size: 7
+2025-06-03 08:14:33.033935702,INFO,Background task 7320 started
+2025-06-03 08:15:59.520422189,WARNING,High memory usage detected: 81%
+2025-06-03 08:17:26.006908675,INFO,User 8792 logged in successfully
+2025-06-03 08:18:52.493395162,INFO,User 6466 logged in successfully
+2025-06-03 08:20:18.979881648,INFO,Cache hit for key key_45
+2025-06-03 08:21:45.466368135,INFO,Database connection pool size: 16
+2025-06-03 08:23:11.952854621,INFO,Database connection pool size: 11
+2025-06-03 08:24:38.439341108,INFO,Cache hit for key key_52
+2025-06-03 08:26:04.925827594,INFO,Cache hit for key key_77
+2025-06-03 08:27:31.412314081,INFO,Request 77602 completed in 143ms
+2025-06-03 08:28:57.898800567,WARNING,Slow query detected: 4259ms for query q_2669
+2025-06-03 08:30:24.385287054,INFO,Request 10984 completed in 627ms
+2025-06-03 08:31:50.871773540,INFO,Background task 3422 started
+2025-06-03 08:33:17.358260027,INFO,User 7524 logged in successfully
+2025-06-03 08:34:43.844746513,ERROR,API request failed with status 401: Permission denied
+2025-06-03 08:36:10.331233000,WARNING,Slow query detected: 4394ms for query q_1981
+2025-06-03 08:37:36.817719486,INFO,User 6947 logged in successfully
+2025-06-03 08:39:03.304205972,INFO,Cache hit for key key_44
+2025-06-03 08:40:29.790692459,WARNING,Slow query detected: 4135ms for query q_4428
+2025-06-03 08:41:56.277178945,ERROR,File not found: /path/to/file_40.txt
+2025-06-03 08:43:22.763665432,ERROR,Task task_3912 failed after 4 attempts
+2025-06-03 08:44:49.250151918,INFO,Database connection pool size: 8
+2025-06-03 08:46:15.736638405,ERROR,Task task_6007 failed after 3 attempts
+2025-06-03 08:47:42.223124891,INFO,Database connection pool size: 10
+2025-06-03 08:49:08.709611378,INFO,Database connection pool size: 11
+2025-06-03 08:50:35.196097864,CRITICAL,System shutdown initiated: Emergency maintenance
+2025-06-03 08:52:01.682584351,INFO,User 1135 logged in successfully
+2025-06-03 08:53:28.169070837,INFO,Database connection pool size: 17
+2025-06-03 08:54:54.655557324,WARNING,Slow query detected: 1983ms for query q_7259
+2025-06-03 08:56:21.142043810,INFO,Cache hit for key key_70
+2025-06-03 08:57:47.628530297,ERROR,Invalid input data: Authentication failed
+2025-06-03 08:59:14.115016783,INFO,Request 49625 completed in 284ms
+2025-06-03 09:00:40.601503270,INFO,Database connection pool size: 7
+2025-06-03 09:02:07.087989756,ERROR,Invalid input data: Connection timeout
+2025-06-03 09:03:33.574476243,INFO,Request 28172 completed in 416ms
+2025-06-03 09:05:00.060962729,ERROR,Invalid input data: Authentication failed
+2025-06-03 09:06:26.547449216,INFO,Background task 8034 started
+2025-06-03 09:07:53.033935702,INFO,Request 72506 completed in 319ms
+2025-06-03 09:09:19.520422189,ERROR,Task task_9086 failed after 1 attempts
+2025-06-03 09:10:46.006908675,ERROR,Task task_8264 failed after 3 attempts
+2025-06-03 09:12:12.493395162,INFO,User 8512 logged in successfully
+2025-06-03 09:13:38.979881648,INFO,Cache hit for key key_13
+2025-06-03 09:15:05.466368135,INFO,Request 71896 completed in 485ms
+2025-06-03 09:16:31.952854621,INFO,Request 28883 completed in 225ms
+2025-06-03 09:17:58.439341108,INFO,Background task 3294 started
+2025-06-03 09:19:24.925827594,INFO,Request 57315 completed in 899ms
+2025-06-03 09:20:51.412314081,INFO,Database connection pool size: 8
+2025-06-03 09:22:17.898800567,ERROR,Failed to connect to database: Permission denied
+2025-06-03 09:23:44.385287054,WARNING,Connection pool at 89% capacity
+2025-06-03 09:25:10.871773540,ERROR,API request failed with status 401: Invalid credentials
+2025-06-03 09:26:37.358260027,ERROR,File not found: /path/to/file_22.txt
+2025-06-03 09:28:03.844746513,ERROR,Failed to connect to database: Connection timeout
+2025-06-03 09:29:30.331233000,INFO,Database connection pool size: 7
+2025-06-03 09:30:56.817719486,INFO,Cache hit for key key_69
+2025-06-03 09:32:23.304205972,ERROR,API request failed with status 404: Authentication failed
+2025-06-03 09:33:49.790692459,INFO,Database connection pool size: 8
+2025-06-03 09:35:16.277178945,INFO,Background task 4184 started
+2025-06-03 09:36:42.763665432,INFO,Database connection pool size: 11
+2025-06-03 09:38:09.250151918,WARNING,High memory usage detected: 88%
+2025-06-03 09:39:35.736638405,INFO,Database connection pool size: 11
+2025-06-03 09:41:02.223124891,INFO,Request 89033 completed in 20ms
+2025-06-03 09:42:28.709611378,WARNING,Retry attempt 4 for operation op_8755
+2025-06-03 09:43:55.196097864,WARNING,High memory usage detected: 84%
+2025-06-03 09:45:21.682584351,INFO,User 2543 logged in successfully
+2025-06-03 09:46:48.169070837,INFO,Database connection pool size: 18
+2025-06-03 09:48:14.655557324,INFO,User 5102 logged in successfully
+2025-06-03 09:49:41.142043810,WARNING,Connection pool at 88% capacity
+2025-06-03 09:51:07.628530297,INFO,Request 78792 completed in 780ms
+2025-06-03 09:52:34.115016783,ERROR,Failed to connect to database: Authentication failed
+2025-06-03 09:54:00.601503270,CRITICAL,Database connection lost: Resource not found
+2025-06-03 09:55:27.087989756,CRITICAL,Critical security breach detected: IP: 192.168.1.173
+2025-06-03 09:56:53.574476243,WARNING,Slow query detected: 3600ms for query q_6379
+2025-06-03 09:58:20.060962729,INFO,Database connection pool size: 10
+2025-06-03 09:59:46.547449216,INFO,Database connection pool size: 18
+2025-06-03 10:01:13.033935702,INFO,Background task 5970 started
+2025-06-03 10:02:39.520422189,INFO,User 6837 logged in successfully
+2025-06-03 10:04:06.006908675,WARNING,High memory usage detected: 74%
+2025-06-03 10:05:32.493395162,INFO,Request 55075 completed in 929ms
+2025-06-03 10:06:58.979881648,INFO,Request 12651 completed in 615ms
+2025-06-03 10:08:25.466368135,CRITICAL,Critical security breach detected: IP: 192.168.1.115
+2025-06-03 10:09:51.952854621,WARNING,Slow query detected: 1068ms for query q_2318
+2025-06-03 10:11:18.439341108,INFO,Database connection pool size: 18
+2025-06-03 10:12:44.925827594,ERROR,Task task_3178 failed after 3 attempts
+2025-06-03 10:14:11.412314081,INFO,User 3915 logged in successfully
+2025-06-03 10:15:37.898800567,INFO,Background task 1119 started
+2025-06-03 10:17:04.385287054,INFO,Request 72398 completed in 474ms
+2025-06-03 10:18:30.871773540,INFO,Background task 8600 started
+2025-06-03 10:19:57.358260027,INFO,Database connection pool size: 11
+2025-06-03 10:21:23.844746513,INFO,Cache hit for key key_18
+2025-06-03 10:22:50.331233000,WARNING,Cache miss for key key_14
+2025-06-03 10:24:16.817719486,WARNING,Connection pool at 70% capacity
+2025-06-03 10:25:43.304205972,INFO,User 7610 logged in successfully
+2025-06-03 10:27:09.790692459,INFO,Background task 9991 started
+2025-06-03 10:28:36.277178945,INFO,Request 30162 completed in 381ms
+2025-06-03 10:30:02.763665432,INFO,Background task 2229 started
+2025-06-03 10:31:29.250151918,INFO,User 4642 logged in successfully
+2025-06-03 10:32:55.736638405,WARNING,Retry attempt 2 for operation op_3417
+2025-06-03 10:34:22.223124891,WARNING,Retry attempt 4 for operation op_1578
+2025-06-03 10:35:48.709611378,ERROR,Task task_6317 failed after 2 attempts
+2025-06-03 10:37:15.196097864,INFO,User 2726 logged in successfully
+2025-06-03 10:38:41.682584351,INFO,User 7328 logged in successfully
+2025-06-03 10:40:08.169070837,INFO,Database connection pool size: 12
+2025-06-03 10:41:34.655557324,INFO,User 5879 logged in successfully
+2025-06-03 10:43:01.142043810,INFO,Cache hit for key key_36
+2025-06-03 10:44:27.628530297,INFO,Request 70688 completed in 340ms
+2025-06-03 10:45:54.115016783,INFO,User 3477 logged in successfully
+2025-06-03 10:47:20.601503270,ERROR,API request failed with status 401: Connection timeout
+2025-06-03 10:48:47.087989756,WARNING,High memory usage detected: 93%
+2025-06-03 10:50:13.574476243,INFO,User 4817 logged in successfully
+2025-06-03 10:51:40.060962729,INFO,Request 60923 completed in 152ms
+2025-06-03 10:53:06.547449216,INFO,Request 78318 completed in 666ms
+2025-06-03 10:54:33.033935702,WARNING,Slow query detected: 2386ms for query q_4236
+2025-06-03 10:55:59.520422189,WARNING,Slow query detected: 1924ms for query q_3692
+2025-06-03 10:57:26.006908675,INFO,Cache hit for key key_16
+2025-06-03 10:58:52.493395162,INFO,Background task 1390 started
+2025-06-03 11:00:18.979881648,WARNING,High memory usage detected: 81%
+2025-06-03 11:01:45.466368135,WARNING,High memory usage detected: 84%
+2025-06-03 11:03:11.952854621,INFO,Background task 9806 started
+2025-06-03 11:04:38.439341108,INFO,Database connection pool size: 10
+2025-06-03 11:06:04.925827594,INFO,Cache hit for key key_53
+2025-06-03 11:07:31.412314081,INFO,Request 51259 completed in 973ms
+2025-06-03 11:08:57.898800567,INFO,Background task 2750 started
+2025-06-03 11:10:24.385287054,CRITICAL,Database connection lost: Resource not found
+2025-06-03 11:11:50.871773540,INFO,Cache hit for key key_42
+2025-06-03 11:13:17.358260027,INFO,Database connection pool size: 14
+2025-06-03 11:14:43.844746513,WARNING,Connection pool at 89% capacity
+2025-06-03 11:16:10.331233000,INFO,Request 60510 completed in 902ms
+2025-06-03 11:17:36.817719486,INFO,Cache hit for key key_87
+2025-06-03 11:19:03.304205972,INFO,Request 66283 completed in 697ms
+2025-06-03 11:20:29.790692459,INFO,User 1377 logged in successfully
+2025-06-03 11:21:56.277178945,WARNING,Slow query detected: 3937ms for query q_1787
+2025-06-03 11:23:22.763665432,CRITICAL,Service auth-service crashed: Connection lost
+2025-06-03 11:24:49.250151918,INFO,Request 69656 completed in 322ms
+2025-06-03 11:26:15.736638405,ERROR,Failed to connect to database: Authentication failed
+2025-06-03 11:27:42.223124891,WARNING,Cache miss for key key_29
+2025-06-03 11:29:08.709611378,INFO,User 9653 logged in successfully
+2025-06-03 11:30:35.196097864,INFO,User 3826 logged in successfully
+2025-06-03 11:32:01.682584351,ERROR,Task task_9287 failed after 2 attempts
+2025-06-03 11:33:28.169070837,INFO,Request 56600 completed in 888ms
+2025-06-03 11:34:54.655557324,INFO,Request 18861 completed in 905ms
+2025-06-03 11:36:21.142043810,INFO,User 9031 logged in successfully
+2025-06-03 11:37:47.628530297,WARNING,Cache miss for key key_29
+2025-06-03 11:39:14.115016783,INFO,Cache hit for key key_54
+2025-06-03 11:40:40.601503270,INFO,Request 92084 completed in 766ms
+2025-06-03 11:42:07.087989756,WARNING,Cache miss for key key_76
+2025-06-03 11:43:33.574476243,INFO,Cache hit for key key_79
+2025-06-03 11:45:00.060962729,INFO,Background task 6458 started
+2025-06-03 11:46:26.547449216,ERROR,File not found: /path/to/file_23.txt
+2025-06-03 11:47:53.033935702,INFO,User 7306 logged in successfully
+2025-06-03 11:49:19.520422189,INFO,User 1138 logged in successfully
+2025-06-03 11:50:46.006908675,INFO,Database connection pool size: 14
+2025-06-03 11:52:12.493395162,INFO,Cache hit for key key_70
+2025-06-03 11:53:38.979881648,INFO,Cache hit for key key_93
+2025-06-03 11:55:05.466368135,INFO,Background task 5667 started
+2025-06-03 11:56:31.952854621,INFO,Cache hit for key key_22
+2025-06-03 11:57:58.439341108,INFO,Cache hit for key key_19
+2025-06-03 11:59:24.925827594,INFO,Request 87533 completed in 499ms
+2025-06-03 12:00:51.412314081,INFO,User 1076 logged in successfully
+2025-06-03 12:02:17.898800567,CRITICAL,Critical security breach detected: IP: 192.168.1.252
+2025-06-03 12:03:44.385287054,WARNING,Connection pool at 77% capacity
+2025-06-03 12:05:10.871773540,WARNING,Retry attempt 2 for operation op_8434
+2025-06-03 12:06:37.358260027,INFO,Request 86802 completed in 700ms
+2025-06-03 12:08:03.844746513,INFO,Cache hit for key key_69
+2025-06-03 12:09:30.331233000,WARNING,Retry attempt 3 for operation op_4739

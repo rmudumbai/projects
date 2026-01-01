@@ -1,0 +1,48 @@
+[project]
+name = "log_classifier"
+version = "0.1.0"
+description = "A modular pipeline for clustering and classifying error logs using text embeddings and HDBSCAN"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scikit-learn>=1.3.0",
+    "matplotlib>=3.7.0",
+    "plotly>=5.18.0",
+    "openai>=1.0.0",
+    "fastapi>=0.104.0",
+    "uvicorn>=0.24.0",
+    "qdrant-client>=1.6.0",
+    "python-dotenv>=1.0.0",
+    "torch>=2.0.0",
+    "transformers>=4.30.0",
+    "bitsandbytes>=0.41.0",
+    "accelerate>=0.20.0",
+    "hdbscan>=0.8.33",
+    "umap-learn>=0.5.5",
+    "loguru>=0.7.0",
+    "pydantic>=2.0.0",
+    "click>=8.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["log_classifier/src"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "B", "I"] 

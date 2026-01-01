@@ -1,0 +1,278 @@
+level,message,sequence_id
+INFO,Request 11902 completed in 298ms,0
+INFO,Background task 4712 started,1
+INFO,Cache hit for key key_46,2
+INFO,Background task 7861 started,3
+INFO,Request 98395 completed in 361ms,4
+ERROR,File not found: /path/to/file_83.txt,5
+WARNING,Retry attempt 3 for operation op_4919,6
+INFO,Database connection pool size: 18,7
+INFO,Background task 6405 started,8
+INFO,Background task 6443 started,9
+WARNING,Slow query detected: 2489ms for query q_7606,10
+INFO,User 3619 logged in successfully,11
+INFO,User 4456 logged in successfully,12
+INFO,Database connection pool size: 14,13
+INFO,User 6015 logged in successfully,14
+INFO,Cache hit for key key_83,15
+INFO,Background task 6456 started,16
+INFO,Background task 8542 started,17
+INFO,Request 68118 completed in 758ms,18
+INFO,Request 75446 completed in 153ms,19
+INFO,Background task 2366 started,20
+ERROR,Task task_6108 failed after 4 attempts,21
+INFO,Cache hit for key key_17,22
+ERROR,Failed to connect to database: Permission denied,23
+WARNING,Slow query detected: 3967ms for query q_9848,24
+CRITICAL,Database connection lost: Authentication failed,25
+INFO,Request 34902 completed in 540ms,26
+INFO,Cache hit for key key_85,27
+CRITICAL,Disk space critical: 42MB remaining,28
+INFO,Database connection pool size: 6,29
+ERROR,API request failed with status 403: Invalid credentials,30
+INFO,Cache hit for key key_38,31
+WARNING,Retry attempt 2 for operation op_3524,32
+WARNING,Slow query detected: 1992ms for query q_2635,33
+INFO,Database connection pool size: 15,34
+INFO,Database connection pool size: 13,35
+WARNING,Slow query detected: 3151ms for query q_1071,36
+INFO,Request 46699 completed in 914ms,37
+INFO,Request 35812 completed in 442ms,38
+WARNING,Connection pool at 87% capacity,39
+WARNING,Cache miss for key key_39,40
+ERROR,Failed to connect to database: Invalid credentials,41
+INFO,User 8285 logged in successfully,42
+WARNING,Connection pool at 75% capacity,43
+INFO,Database connection pool size: 14,44
+INFO,User 8418 logged in successfully,45
+INFO,Background task 1308 started,46
+WARNING,Slow query detected: 1507ms for query q_1433,47
+WARNING,High memory usage detected: 88%,48
+INFO,User 5659 logged in successfully,49
+INFO,Cache hit for key key_19,50
+INFO,Background task 9148 started,51
+INFO,User 7937 logged in successfully,52
+INFO,Database connection pool size: 5,53
+INFO,User 6776 logged in successfully,54
+INFO,Cache hit for key key_70,55
+ERROR,Invalid input data: Permission denied,56
+WARNING,Cache miss for key key_92,57
+INFO,Request 26595 completed in 888ms,58
+WARNING,Slow query detected: 2084ms for query q_4000,59
+INFO,Request 82839 completed in 929ms,60
+ERROR,API request failed with status 404: Resource not found,61
+INFO,Request 89873 completed in 819ms,62
+WARNING,Slow query detected: 2392ms for query q_5448,63
+INFO,Request 72267 completed in 738ms,64
+INFO,User 3896 logged in successfully,65
+INFO,Database connection pool size: 13,66
+INFO,Request 31413 completed in 358ms,67
+INFO,Database connection pool size: 7,68
+ERROR,Failed to connect to database: Connection timeout,69
+INFO,Request 14283 completed in 850ms,70
+INFO,Background task 8442 started,71
+CRITICAL,Disk space critical: 55MB remaining,72
+INFO,Cache hit for key key_51,73
+ERROR,Task task_1278 failed after 3 attempts,74
+INFO,Background task 7419 started,75
+INFO,Background task 4457 started,76
+INFO,User 5942 logged in successfully,77
+WARNING,Connection pool at 80% capacity,78
+WARNING,Slow query detected: 1624ms for query q_1027,79
+INFO,User 2857 logged in successfully,80
+CRITICAL,Service user-service crashed: Authentication failed,81
+INFO,Database connection pool size: 6,82
+CRITICAL,Critical security breach detected: IP: 192.168.1.196,83
+WARNING,High memory usage detected: 75%,84
+WARNING,Retry attempt 4 for operation op_5539,85
+INFO,User 1131 logged in successfully,86
+ERROR,Failed to connect to database: Permission denied,87
+INFO,Cache hit for key key_4,88
+WARNING,Slow query detected: 3160ms for query q_5417,89
+WARNING,Retry attempt 4 for operation op_1081,90
+ERROR,File not found: /path/to/file_5.txt,91
+INFO,Database connection pool size: 9,92
+INFO,Background task 7645 started,93
+ERROR,File not found: /path/to/file_95.txt,94
+INFO,Request 90449 completed in 76ms,95
+INFO,Database connection pool size: 11,96
+INFO,User 2815 logged in successfully,97
+INFO,Background task 6389 started,98
+WARNING,Retry attempt 2 for operation op_4519,99
+INFO,Database connection pool size: 8,100
+WARNING,Cache miss for key key_9,101
+INFO,Cache hit for key key_79,102
+INFO,Request 45486 completed in 824ms,103
+CRITICAL,Disk space critical: 83MB remaining,104
+INFO,Database connection pool size: 19,105
+WARNING,Cache miss for key key_66,106
+INFO,Background task 4061 started,107
+INFO,Cache hit for key key_29,108
+INFO,Background task 4508 started,109
+WARNING,Slow query detected: 3972ms for query q_6731,110
+WARNING,High memory usage detected: 92%,111
+WARNING,Retry attempt 4 for operation op_3161,112
+INFO,Database connection pool size: 19,113
+WARNING,High memory usage detected: 92%,114
+INFO,Request 70152 completed in 636ms,115
+INFO,User 8353 logged in successfully,116
+WARNING,Retry attempt 1 for operation op_1140,117
+INFO,Background task 8476 started,118
+INFO,Background task 7713 started,119
+INFO,Background task 8050 started,120
+WARNING,Cache miss for key key_95,121
+ERROR,File not found: /path/to/file_76.txt,122
+INFO,Cache hit for key key_98,123
+INFO,Background task 7956 started,124
+INFO,Background task 4390 started,125
+ERROR,File not found: /path/to/file_19.txt,126
+WARNING,Retry attempt 3 for operation op_7343,127
+WARNING,Retry attempt 4 for operation op_9463,128
+WARNING,Cache miss for key key_83,129
+ERROR,Task task_7432 failed after 2 attempts,130
+ERROR,Task task_3521 failed after 2 attempts,131
+CRITICAL,Disk space critical: 8MB remaining,132
+INFO,User 2860 logged in successfully,133
+INFO,Database connection pool size: 8,134
+CRITICAL,Critical security breach detected: IP: 192.168.1.78,135
+INFO,Cache hit for key key_87,136
+INFO,Cache hit for key key_3,137
+INFO,Background task 4836 started,138
+INFO,Request 67227 completed in 917ms,139
+CRITICAL,System shutdown initiated: Emergency maintenance,140
+INFO,Cache hit for key key_73,141
+INFO,Request 49931 completed in 592ms,142
+INFO,User 7684 logged in successfully,143
+INFO,Database connection pool size: 10,144
+INFO,Request 67906 completed in 917ms,145
+INFO,User 3607 logged in successfully,146
+WARNING,Connection pool at 73% capacity,147
+INFO,Cache hit for key key_78,148
+WARNING,High memory usage detected: 73%,149
+WARNING,Connection pool at 73% capacity,150
+INFO,Background task 1207 started,151
+WARNING,Connection pool at 91% capacity,152
+WARNING,Cache miss for key key_23,153
+INFO,Database connection pool size: 10,154
+WARNING,Cache miss for key key_34,155
+INFO,Cache hit for key key_40,156
+INFO,User 9324 logged in successfully,157
+INFO,Database connection pool size: 17,158
+ERROR,API request failed with status 503: Invalid credentials,159
+INFO,Cache hit for key key_30,160
+INFO,User 8556 logged in successfully,161
+INFO,Background task 9455 started,162
+ERROR,Task task_4872 failed after 1 attempts,163
+WARNING,High memory usage detected: 83%,164
+WARNING,Connection pool at 73% capacity,165
+WARNING,Connection pool at 84% capacity,166
+INFO,Cache hit for key key_14,167
+ERROR,Failed to connect to database: Invalid credentials,168
+ERROR,Invalid input data: Authentication failed,169
+INFO,Request 14538 completed in 324ms,170
+ERROR,File not found: /path/to/file_40.txt,171
+ERROR,Task task_4176 failed after 3 attempts,172
+WARNING,Connection pool at 89% capacity,173
+INFO,Background task 3128 started,174
+ERROR,Invalid input data: Permission denied,175
+INFO,Cache hit for key key_6,176
+INFO,Request 84499 completed in 423ms,177
+ERROR,Task task_4398 failed after 3 attempts,178
+INFO,Background task 7711 started,179
+INFO,User 5120 logged in successfully,180
+WARNING,Connection pool at 83% capacity,181
+ERROR,Task task_2919 failed after 4 attempts,182
+CRITICAL,Disk space critical: 50MB remaining,183
+INFO,Request 57621 completed in 996ms,184
+ERROR,File not found: /path/to/file_33.txt,185
+INFO,Database connection pool size: 10,186
+WARNING,Retry attempt 4 for operation op_6187,187
+INFO,Cache hit for key key_2,188
+INFO,Background task 6912 started,189
+ERROR,File not found: /path/to/file_55.txt,190
+INFO,User 9031 logged in successfully,191
+INFO,Database connection pool size: 13,192
+INFO,Cache hit for key key_49,193
+INFO,User 2922 logged in successfully,194
+ERROR,Failed to connect to database: Authentication failed,195
+WARNING,Cache miss for key key_57,196
+INFO,Cache hit for key key_77,197
+INFO,Cache hit for key key_49,198
+INFO,User 1594 logged in successfully,199
+INFO,Request 66497 completed in 953ms,200
+ERROR,Invalid input data: Authentication failed,201
+WARNING,Connection pool at 73% capacity,202
+INFO,Request 60868 completed in 77ms,203
+INFO,Request 76069 completed in 116ms,204
+INFO,Cache hit for key key_7,205
+INFO,Request 44579 completed in 92ms,206
+INFO,User 2808 logged in successfully,207
+INFO,User 8196 logged in successfully,208
+ERROR,File not found: /path/to/file_13.txt,209
+INFO,Cache hit for key key_12,210
+INFO,Cache hit for key key_19,211
+INFO,Request 36390 completed in 922ms,212
+INFO,Database connection pool size: 10,213
+INFO,Database connection pool size: 12,214
+INFO,Cache hit for key key_28,215
+INFO,User 9717 logged in successfully,216
+INFO,Request 98571 completed in 268ms,217
+WARNING,Cache miss for key key_79,218
+WARNING,Slow query detected: 2716ms for query q_5723,219
+INFO,Background task 1794 started,220
+INFO,User 6144 logged in successfully,221
+INFO,Background task 3527 started,222
+ERROR,Invalid input data: Permission denied,223
+INFO,Request 68977 completed in 366ms,224
+INFO,Request 27894 completed in 481ms,225
+ERROR,File not found: /path/to/file_32.txt,226
+INFO,Background task 6989 started,227
+INFO,Cache hit for key key_2,228
+INFO,User 5142 logged in successfully,229
+ERROR,Task task_1552 failed after 4 attempts,230
+INFO,Cache hit for key key_26,231
+ERROR,Task task_3680 failed after 1 attempts,232
+CRITICAL,Disk space critical: 93MB remaining,233
+CRITICAL,Critical security breach detected: IP: 192.168.1.118,234
+INFO,Database connection pool size: 16,235
+ERROR,Failed to connect to database: Permission denied,236
+WARNING,Connection pool at 89% capacity,237
+INFO,Cache hit for key key_68,238
+INFO,Database connection pool size: 6,239
+ERROR,Failed to connect to database: Invalid credentials,240
+WARNING,High memory usage detected: 93%,241
+INFO,Background task 9476 started,242
+INFO,Cache hit for key key_15,243
+INFO,Cache hit for key key_28,244
+INFO,Background task 6475 started,245
+WARNING,High memory usage detected: 88%,246
+INFO,Background task 2866 started,247
+INFO,Cache hit for key key_32,248
+WARNING,Slow query detected: 4742ms for query q_9012,249
+INFO,Database connection pool size: 16,250
+INFO,User 3334 logged in successfully,251
+WARNING,Slow query detected: 2602ms for query q_9417,252
+ERROR,Failed to connect to database: Invalid credentials,253
+INFO,Cache hit for key key_62,254
+INFO,User 5949 logged in successfully,255
+INFO,Database connection pool size: 10,256
+INFO,Cache hit for key key_41,257
+INFO,User 2553 logged in successfully,258
+WARNING,Connection pool at 92% capacity,259
+CRITICAL,Database connection lost: Authentication failed,260
+WARNING,Cache miss for key key_62,261
+WARNING,Cache miss for key key_98,262
+INFO,Request 43074 completed in 137ms,263
+WARNING,Cache miss for key key_6,264
+WARNING,High memory usage detected: 89%,265
+INFO,Background task 9551 started,266
+INFO,Database connection pool size: 13,267
+WARNING,High memory usage detected: 76%,268
+INFO,Cache hit for key key_50,269
+WARNING,Slow query detected: 3261ms for query q_6157,270
+WARNING,Slow query detected: 3455ms for query q_3568,271
+INFO,Background task 1192 started,272
+INFO,Request 16947 completed in 957ms,273
+ERROR,API request failed with status 401: Invalid credentials,274
+INFO,Cache hit for key key_53,275
+WARNING,Retry attempt 3 for operation op_6113,276
